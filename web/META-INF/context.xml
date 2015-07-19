@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/AmkaAwaken">
+<Realm className="org.apache.catalina.realm.JDBCRealm"
+           digest="MD5"
+           driverName="com.mysql.jdbc.Driver"
+           connectionURL="jdbc:mysql://localhost:3306/amka_awaken?user=root&amp;password=2307"
+           userTable="users" userNameCol="user_name" userCredCol="user_pass"
+           userRoleTable="user_roles" roleNameCol="role_name"/>
+</Context>

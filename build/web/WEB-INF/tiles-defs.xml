@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+
+
+<!--
+     This is a blank Tiles definition file with a commented example.
+-->
+
+<tiles-definitions>
+
+    <definition name="mainLayout" template="/Resources/Layout/main_layout.jsp">
+        <put-attribute name="title" value="Amka Awaken | Amen" />
+        <put-attribute name="header" value="/Resources/Layout/header.jsp" />
+        <put-attribute name="content" value="" />
+        <put-attribute name="footer" value="/Resources/Layout/footer.jsp" />
+    </definition>
+  
+    <definition name="com.amkaawaken.home" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Home" />
+        <put-attribute name="content" value="/Pages/home.jsp" />
+    </definition>
+    
+     <definition name="com.amkaawaken.about" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | About Us" />
+        <put-attribute name="content" value="/Pages/about_us.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.contact" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Contact Us" />
+        <put-attribute name="content" value="/Pages/contact_us.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.donate" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Make Donation" />
+        <put-attribute name="content" value="/Pages/donate.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.sponsors" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Our Sponsors" />
+        <put-attribute name="content" value="/Pages/sponsors.jsp" />
+    </definition>
+    
+     <definition name="com.amkaawaken.sponsors_profile" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Sponsors Profile" />
+        <put-attribute name="content" value="/Pages/sponsors_profile.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.sponsors_info" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Sponsors Info" />
+        <put-attribute name="content" value="/Pages/sponsors_info.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.our_sponsorship_details" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Our Sponsorship Details" />
+        <put-attribute name="content" value="/Pages/our_sponsorship_details.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.involved" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Get Involved" />
+        <put-attribute name="content" value="/Pages/involved.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.getting_involved" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Getting Involved" />
+        <put-attribute name="content" value="/Pages/getting_involved.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.goals" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Our Goals" />
+        <put-attribute name="content" value="/Pages/our_goals.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.news_blogs" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | News/Blogs" />
+        <put-attribute name="content" value="/Pages/news_blogs.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.gallery" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Gallery" />
+        <put-attribute name="content" value="/Pages/gallery.jsp" />
+    </definition>
+   
+    <definition name="com.amkaawaken.signin" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Sign in page" />
+        <put-attribute name="content" value="/Pages/signin.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.signup" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Signup page" />
+        <put-attribute name="content" value="/Pages/signup.jsp" />
+    </definition>
+</tiles-definitions>
+
