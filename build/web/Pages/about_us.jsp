@@ -17,7 +17,7 @@
 
     <div class="row">
         <div class="col-md-12">
-            <h2>Meet <span class="text-muted">us</span></h2>
+            <h2>Meet <span class="text-muted"> us in p</span></h2>
         </div>
 
         <div class="row">
