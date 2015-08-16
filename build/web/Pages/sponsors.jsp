@@ -33,10 +33,10 @@
         <div class="row">
             <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1 col-xs-10 col-xs-offset-1 gray_shadow">
                 <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-                        <hr>
-                        <h2>Our Current Sponsor's</h2>
-                        <hr>
-                    </div>
+                    <hr>
+                    <h2>Our Current Sponsor's</h2>
+                    <hr>
+                </div>
                 <div class="pricing-table pricing-three-column row">
                     <div class="plan col-sm-4 col-lg-4">
                         <div class="plan-name-gray">

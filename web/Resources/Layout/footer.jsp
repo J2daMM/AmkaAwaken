@@ -20,7 +20,7 @@
                 <a target="_blank" href="http://www.youtube.com"><img src="./Resources/Images/Icons/Social/youtube.png"  width="30" height="30" /></a> &nbsp;
             </div>
             <div class="col-md-4 col-sm-4 ">
-                <p>&copy; Copyright <a target="_blank" href="#">Code vs Code IT LLC</a> 2014</p>
+                <p>&copy; Copyright <a target="_blank" href="#">CoderHolics IT LLC</a> 2015</p>
             </div>
         </div>
     </div>

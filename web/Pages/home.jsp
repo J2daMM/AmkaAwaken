@@ -20,7 +20,7 @@
                 <div class="container">
                     <div class="carousel-caption">
                         <p>'There can be no revelation of a society's soul than the way in which it treats it's children.' - Nelson Mandela</p>
-                        <a href="involved.htm"><h4>Get Involved</h4></a>
+                        <a href="involved.htm" class="btn btn-primary" title="Enlace"><h4>Get Involved</h4></a>
                     </div>
 
                 </div>
@@ -30,7 +30,7 @@
                 <div class="container">
                     <div class="carousel-caption">
                         <p>'Children are great imitators. So give them something great to imitate.' - Anonymous</p>
-                        <a href="involved.htm"><h4>Get Involved</h4></a>
+                        <a href="involved.htm" class="btn btn-primary" title="Enlace"><h4>Get Involved</h4></a>
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@
                 <div class="container">
                     <div class="carousel-caption">
                         <p>'Give a boy a fish and you feed him for a day. Teach a boy to fish and you feed him for a lifetime.' - Chinese Proverb</p>
-                        <a href="involved.htm"><h4>Get Involved</h4></a>
+                        <a href="involved.htm" class="btn btn-primary" title="Enlace"><h4>Get Involved</h4></a>
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@
         <div class="col-md-12 col-sm-12 white_shadow" >
             <div class="col-md-9 col-sm-9">
                 <div class="col-md-12 col-sm-12">
-                    <h2>Amka, Awaken!</h2>
+                    <h1>Amka, Awaken!</h1>
                     <p>AMka is the Swahili word for awakEN. The Amka-Awaken Youth Development Organization's goal is to empower the community's youth through community development projects. Our various goals help the youth take ownership and responsibility of their destiny and 
                         be the agents of positive community changes. </p> 
                 </div>
@@ -64,35 +64,84 @@
                     <h3>Youth's Projects</h3>
                     <hr>
                     <p>Function's as a development program for the youth by using education, workshops and sports initiative. This builds a teamwork platform, leadership growth skills, confidence and self-esteem.</p>
-                    <a href="involved.htm">Read More</a>
+                    <a href="projects_details.htm" class="btn btn-primary" title="Enlace">Read More »</a>
                 </div>
                 <div class="plan-name-gray col-md-4 col-sm-4 drop_shadow ">
                     <h3>Women's Projects</h3>
                     <hr>
                     <p> Function's as a women's community development instrument, by working with women's community groups. The support empowers and improves the communities women.</p>
-                    <a href="involved.htm">Read More</a>
+                    <a href="projects_details.htm" class="btn btn-primary" title="Enlace">Read More »</a>
                 </div>
                 <div class="plan-name-gray col-md-4 col-sm-4 drop_shadow ">
                     <h3>Maji Projects</h3>
                     <hr>
                     <p>Function's to help the community with clean water problem by bringing clean water resources like digging boreholes. This helps tackle other major issues that arise due to lack of clean water.</p>
-                    <a href="involved.htm">Read More</a>
+                    <a href="projects_details.htm" class="btn btn-primary" title="Enlace">Read More »</a>
                 </div>
+
+                <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+                    <hr>
+                    <h2>Our Current Progress</h2>
+                    <hr>
+                </div>
+                <!--                    <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">-->
+                <div class="row destacados">
+                    <div class="col-md-4">
+                        <div>
+                            <!--                                    <img src="./Resources/Images/Gallery/library.jpg" alt="Texto Alternativo" class="img-circle img-thumbnail">-->
+                            <h2>People Helped</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace">Read More »</a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div>
+                            <!--                                    <img src="./Resources/Images/Gallery/library.jpg" alt="Texto Alternativo" class="img-circle img-thumbnail">-->
+                            <h2>Funds Sponsored</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace">Read More »</a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div>
+                            <!--                                    <img src="./Resources/Images/Gallery/library.jpg" alt="Texto Alternativo" class="img-circle img-thumbnail">-->
+                            <h2>Projects Created</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace">Read More »</a>
+                        </div>
+                    </div>
+                </div>
+                <!--                    </div>-->
             </div>
             <div class="col-md-3 col-sm-3 contentRight drop_shadow">
                 <div class="col-md-12 col-sm-12">
 
-                    <h3>News/Blogs</h3>
+                    <h3>News</h3>
                     <a href="news.htm">06/05/2014: Hunger Walk</a><br/>
                     <a href="news.htm">06/23/2014: Education Walk</a><br/>
                     <a href="news.htm">06/30/2014: Maji Walk</a><br/>
-                    
-<!--                     <hr class="featurette-divider "> -->
-                     
-                     <h3>Events</h3>
+                    <a href="news.htm">06/30/2014: Maji Walk</a><br/>
+
+                    <hr class="featurette-divider "> 
+
+                    <h3>Blogs</h3>
+                    <a href="news.htm">06/05/2014: Hunger Walk</a><br/>
+                    <a href="news.htm">06/23/2014: Education Walk</a><br/>
+                    <a href="news.htm">06/30/2014: Maji Walk</a><br/>
+                    <a href="news.htm">06/30/2014: Maji Walk</a><br/>
+
+                    <hr class="featurette-divider ">
+
+                    <h3>Events</h3>
                     <a href="news.htm">06/05/2014: Hunger Walk</a><br/>
                     <a href="news.htm">06/23/2014: Education Walk</a><br/>
                     <a href="news.htm">06/23/2014: Education Walk</a><br/>
+                    <a href="news.htm">06/30/2014: Maji Walk</a><br/>
 
                     <hr class="featurette-divider "> 
 
@@ -110,6 +159,17 @@
                             <input class="btn btn-default btn-xs" name="commit" type="submit" value="Sign Up" style="cursor:pointer;" />
                         </form>
                     </div>
+
+                    <hr class="featurette-divider ">
+
+                    <div class="newsletter">
+                        <h3 class="left">Other ways to get involved</h3>
+                        <div class="force_break"></div>
+                        <p>
+                            You can donate resources or any materials that can be used for the different projects the youths are involved in.
+                        </p>
+                    </div>
+
                 </div>
             </div>
         </div>

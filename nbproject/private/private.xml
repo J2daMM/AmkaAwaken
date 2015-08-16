@@ -3,14 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/Pages/donate.jsp</file>
-            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/Pages/gallery.jsp</file>
+            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/src/java/com/amkaawaken/controllers/GetInvolvedController.java</file>
             <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/Pages/home.jsp</file>
+            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/src/java/com/amkaawaken/entities/Album.java</file>
             <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/Pages/sponsors_info.jsp</file>
+            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/src/java/com/amkaawaken/DAO/ImageDAO.java</file>
+            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/Pages/projects.jsp</file>
             <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/WEB-INF/applicationContext.xml</file>
-            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/WEB-INF/application.properties</file>
+            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/Pages/contact_us.jsp</file>
+            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/Resources/Layout/header.jsp</file>
+            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/WEB-INF/tiles-defs.xml</file>
+            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/Resources/CSS/main.css</file>
             <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/Pages/getting_involved.jsp</file>
-            <file>file:/Users/JMwash/NetBeansProjects/AmkaAwaken/web/Pages/news_blogs.jsp</file>
         </group>
     </open-files>
 </project-private>

@@ -58,6 +58,16 @@
         <put-attribute name="content" value="/Pages/our_sponsorship_details.jsp" />
     </definition>
     
+    <definition name="com.amkaawaken.projects" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Projects" />
+        <put-attribute name="content" value="/Pages/projects.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.projects_details" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Projects Details" />
+        <put-attribute name="content" value="/Pages/projects_details.jsp" />
+    </definition>
+    
     <definition name="com.amkaawaken.involved" extends="mainLayout">
         <put-attribute name="title" value="AmkaAwaken | Get Involved" />
         <put-attribute name="content" value="/Pages/involved.jsp" />

@@ -28,7 +28,7 @@
                             <h3>Children's Future</h3>
                             <h4 class="white"><i class="fa fa-check-circle-o"></i> Dallas, TX</h4>
                             <h4 class="white"><i class="glyphicons glyphicons-global"></i> http://thegiversdfw.com/</h4>
-                                <a href="sponsors_profile.htm" class="btn btn-primary btn-plan-select"><i class="icon-white icon-ok"></i>Update</a>
+<!--                                <a href="sponsors_profile.htm" class="btn btn-primary btn-plan-select"><i class="icon-white icon-ok"></i>Update</a>-->
                         </div>
                     </div>
                     <div class="col-md-6 no-pad">
@@ -137,7 +137,7 @@
                                         <a href="" rel="tooltip" title="Appreciate"><span class="fa fa-heart-o fa-2x"></span></a>
                                         <a href="" rel="tooltip" title="View"><span class="fa fa-search fa-2x"></span></a>
                                     </div>
-                                    <img src="http://24.media.tumblr.com/282fadab7d782edce9debf3872c00ef1/tumblr_n3tswomqPS1st5lhmo1_1280.jpg" class="img-responsive">
+                                    <img src="http://24.media.tumblr.com/273167b30c7af4437dcf14ed894b0768/tumblr_n5waxesawa1st5lhmo1_1280.jpg" class="img-responsive">
                                 </div>
                                 <div class="info">
                                     <p class="small" style="text-overflow: ellipsis">An Awesome Title</p>

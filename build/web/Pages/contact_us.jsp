@@ -31,6 +31,8 @@
             </div>
         </c:if>
         <form method="POST" action="send_message.htm" class="drop_shadow" style="padding: 60px; margin-top: 10px; padding-top: 20px;">
+<!--            <form method="POST" action="send_message.htm" class="drop_shadow" style="padding: 60px; margin-top: 10px; padding-top: 20px;">-->
+
 
             <div class="input-group input-group-lg" style="margin-bottom: 40px;">
                 <span class="input-group-btn">
