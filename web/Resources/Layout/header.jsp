@@ -48,10 +48,11 @@
                         </li>
 
                         <li>
-                            <a class="btn btn-default btn-outline  collapsed"  data-toggle="collapse" href="#nav-collapse2" aria-expanded="false" aria-controls="nav-collapse2">Sponsor Sign In</a>
+                            <a href="signin.htm" class="btn btn-primary" title="Enlace">Sponsor Sign In</a>
+<!--                            <a  class="btn btn-default btn-outline  collapsed"  data-toggle="collapse" href="#nav-collapse2" aria-expanded="false" aria-controls="nav-collapse2">Sponsor Sign In</a>-->
                         </li>
                     </ul>
-                    <div class="collapse nav navbar-nav nav-collapse slide-down" id="nav-collapse2">
+<!--                    <div class="collapse nav navbar-nav nav-collapse slide-down" id="nav-collapse2">
                         <form class="navbar-form navbar-right form-inline" role="form">
                             <div class="form-group">
                                 <label class="sr-only" for="Email">Email</label>
@@ -63,7 +64,7 @@
                             </div>
                             <button type="submit" class="btn btn-success">Sign in</button>
                         </form>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>

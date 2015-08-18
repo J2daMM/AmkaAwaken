@@ -201,6 +201,20 @@ a:hover{
     background-color: #FFFFFF
 }
 
+.navbar-brand 
+{ 
+    position: relative; z-index: 2; 
+}
+
+.navbar-nav.navbar-right .btn 
+{ 
+    position: relative; 
+    z-index: 2; 
+    padding: 4px 20px; 
+    margin: 10px auto; 
+    transition: transform 0.3s; 
+}
+
 
 /* CUSTOMIZE LIST GROUPS */
 .list-group-item
@@ -265,39 +279,39 @@ a:hover{
 .btn-vertical-slider{ margin-left:35px; cursor:pointer;}
 a {  cursor:pointer;}
 .carousel.vertical .carousel-inner .item {
-  -webkit-transition: 0.6s ease-in-out top;
-     -moz-transition: 0.6s ease-in-out top;
-      -ms-transition: 0.6s ease-in-out top;
-       -o-transition: 0.6s ease-in-out top;
-          transition: 0.6s ease-in-out top;
+    -webkit-transition: 0.6s ease-in-out top;
+    -moz-transition: 0.6s ease-in-out top;
+    -ms-transition: 0.6s ease-in-out top;
+    -o-transition: 0.6s ease-in-out top;
+    transition: 0.6s ease-in-out top;
 }
 
- .carousel.vertical .active {
-  top: 0;
+.carousel.vertical .active {
+    top: 0;
 }
 
- .carousel.vertical .next {
-  top: 100%;
+.carousel.vertical .next {
+    top: 100%;
 }
 
- .carousel.vertical .prev {
-  top: -100%;
+.carousel.vertical .prev {
+    top: -100%;
 }
 
- .carousel.vertical .next.left,
+.carousel.vertical .next.left,
 .carousel.vertical .prev.right {
-  top: 0;
+    top: 0;
 }
 
- .carousel.vertical .active.left {
-  top: -100%;
+.carousel.vertical .active.left {
+    top: -100%;
 }
 
- .carousel.vertical .active.right {
-  top: 100%;
+.carousel.vertical .active.right {
+    top: 100%;
 }
 
- .carousel.vertical .item {
+.carousel.vertical .item {
     left: 0;
 }​
 
@@ -395,6 +409,32 @@ a {  cursor:pointer;}
 @media (min-width: 992px) {
     .featurette-heading {
         margin-top: 120px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .navbar .navbar-collapse .navbar-right > li:last-child { padding-left: 15px; padding-right: 15px; } 
+
+    .navbar .nav-collapse { margin: 7.5px auto; padding: 0; }
+    .navbar .nav-collapse .navbar-form { margin: 0; }
+    .nav-collapse>li { float: none; }
+
+    .navbar.navbar-default .nav-collapse,
+    .navbar.navbar-inverse .nav-collapse {
+        transform: translate(-100%,0px);
+    }
+    .navbar.navbar-default .nav-collapse.in,
+    .navbar.navbar-inverse .nav-collapse.in {
+        transform: translate(0px,0px);
+    }
+
+    .navbar.navbar-default .nav-collapse.slide-down,
+    .navbar.navbar-inverse .nav-collapse.slide-down {
+        transform: translate(0px,-100%);
+    }
+    .navbar.navbar-default .nav-collapse.in.slide-down,
+    .navbar.navbar-inverse .nav-collapse.in.slide-down {
+        transform: translate(0px,0px);
     }
 }
 
@@ -813,16 +853,16 @@ p.jRatingInfos span.maxRate {
 
 .omb_login .omb_authTitle {
     text-align: center;
-	line-height: 300%;
+    line-height: 300%;
 }
-	
+
 .omb_login .omb_socialButtons a {
-	color: white; // In yourUse @body-bg 
-	opacity:0.9;
+    color: white; // In yourUse @body-bg 
+    opacity:0.9;
 }
 .omb_login .omb_socialButtons a:hover {
     color: white;
-	opacity:1;    	
+    opacity:1;    	
 }
 .omb_login .omb_socialButtons .omb_btn-facebook {background: #3b5998;}
 .omb_login .omb_socialButtons .omb_btn-twitter {background: #00aced;}
@@ -830,44 +870,44 @@ p.jRatingInfos span.maxRate {
 
 
 .omb_login .omb_loginOr {
-	position: relative;
-	font-size: 1.5em;
-	color: #aaa;
-	margin-top: 1em;
-	margin-bottom: 1em;
-	padding-top: 0.5em;
-	padding-bottom: 0.5em;
+    position: relative;
+    font-size: 1.5em;
+    color: #aaa;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
 }
 .omb_login .omb_loginOr .omb_hrOr {
-	background-color: #cdcdcd;
-	height: 1px;
-	margin-top: 0px !important;
-	margin-bottom: 0px !important;
+    background-color: #cdcdcd;
+    height: 1px;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
 }
 .omb_login .omb_loginOr .omb_spanOr {
-	display: block;
-	position: absolute;
-	left: 50%;
-	top: -0.6em;
-	margin-left: -1.5em;
-	background-color: white;
-	width: 3em;
-	text-align: center;
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -0.6em;
+    margin-left: -1.5em;
+    background-color: white;
+    width: 3em;
+    text-align: center;
 }			
 
 .omb_login .omb_loginForm .input-group.i {
-	width: 2em;
+    width: 2em;
 }
 .omb_login .omb_loginForm  .help-block {
     color: red;
 }
 
-	
+
 @media (min-width: 768px) {
     .omb_login .omb_forgotPwd {
         text-align: right;
-		margin-top:10px;
- 	}		
+        margin-top:10px;
+    }		
 }
 
 
@@ -1080,20 +1120,20 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
 
 .destacados{
     padding: 20px 0;
-	text-align: center;
+    text-align: center;
 }
 .destacados > div > div{
-	padding: 10px;
-	border: 1px solid transparent;
-	border-radius: 4px;
-	transition: 0.2s;
+    padding: 10px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    transition: 0.2s;
 }
 .destacados > div:hover > div{
-	margin-top: -10px;
-	border: 1px solid rgb(200, 200, 200);
-	box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
-	background: rgba(200, 200, 200, 0.1);
-	transition: 0.5s;
+    margin-top: -10px;
+    border: 1px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    background: rgba(200, 200, 200, 0.1);
+    transition: 0.5s;
 }
 
 
