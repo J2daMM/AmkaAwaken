@@ -81,46 +81,36 @@
 
                 <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
                     <hr>
-                    <h2>Our Current Progress</h2>
-                    <hr>
+
                 </div>
-                <!--                    <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">-->
-                <div class="row destacados">
-                    <div class="col-md-4">
-                        <div>
-                            <!--                                    <img src="./Resources/Images/Gallery/library.jpg" alt="Texto Alternativo" class="img-circle img-thumbnail">-->
-                            <h2>People Helped</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                            <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace">Read More »</a>
-                        </div>
+                <div class="col-md-12 col-sm-12">
+                    <h2>Our Current Progress</h2>
+                    <p>
+                        We're passionate about the progress we have been able to reach in our projects specific goals.
+                        With the help of our many sponsors we can proudly display our current progress below..
+                    </p>
+                </div>
+                <div class="row overview">
+                    <div class="col-md-4 user-pad text-center">
+                        <h3>People Helped</h3>
+                        <h4>12</h4>
                     </div>
-
-                    <div class="col-md-4">
-                        <div>
-                            <!--                                    <img src="./Resources/Images/Gallery/library.jpg" alt="Texto Alternativo" class="img-circle img-thumbnail">-->
-                            <h2>Funds Sponsored</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                            <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace">Read More »</a>
-                        </div>
+                    <div class="col-md-4 user-pad text-center">
+                        <h3>Funds Sponsored</h3>
+                        <h4>$4500</h4>
                     </div>
-
-                    <div class="col-md-4">
-                        <div>
-                            <!--                                    <img src="./Resources/Images/Gallery/library.jpg" alt="Texto Alternativo" class="img-circle img-thumbnail">-->
-                            <h2>Projects Created</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                            <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace">Read More »</a>
-                        </div>
+                    <div class="col-md-4 user-pad text-center">
+                        <h3>Projects Created</h3>
+                        <h4>10</h4>
                     </div>
+                </div>
+                <div class="col-md-6 col-xs-6 col-lg-6 col-md-offset-5">
+                    <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace"> Current Progress Details</a>
                 </div>
                 <!--                    </div>-->
             </div>
             <div class="col-md-3 col-sm-3 contentRight drop_shadow">
                 <div class="col-md-12 col-sm-12">
-
                     <h3>News</h3>
                     <a href="news.htm">06/05/2014: Hunger Walk</a><br/>
                     <a href="news.htm">06/23/2014: Education Walk</a><br/>
@@ -162,13 +152,13 @@
 
                     <hr class="featurette-divider ">
 
-                    <div class="newsletter">
-                        <h3 class="left">Other ways to get involved</h3>
-                        <div class="force_break"></div>
-                        <p>
-                            You can donate resources or any materials that can be used for the different projects the youths are involved in.
-                        </p>
-                    </div>
+                    <!--                    <div class="newsletter">
+                                            <h3 class="left">Other ways to get involved</h3>
+                                            <div class="force_break"></div>
+                                            <p>
+                                                You can donate resources or any materials that can be used for the different projects the youths are involved in.
+                                            </p>
+                                        </div>-->
 
                 </div>
             </div>

@@ -33,7 +33,7 @@
                             <a href="involved.htm" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open">&nbsp;</span>&nbsp; Projects <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="projects.htm">Our Projects</a> </li>
-                                <li><a href="our_goals.htm">Our Goals</a></li>
+<!--                                <li><a href="our_goals.htm">Our Goals</a></li>-->
 <!--                                <li><a href="our_goals.htm">Our Goals</a></li>-->
                                 <!--                                <li><a href="gallery.htm">Photo Gallery</a></li>-->
                             </ul>

@@ -22,36 +22,98 @@
 
     <div class="row">
         <div class="col-md-12">
-            <h2>Youth's Sports <span class="text-muted">Initiative</span></h2>
+            <h2>Amka Twende -<span class="text-muted">Youth's Sports Initiative</span></h2>
         </div>
 
         <div class="row" >
             <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-10 col-xs-offset-1">
                 <div class="row">
-                    <div class="col-md-8 col-sm-8 col-sm-8 col-xs-8">
+                    <div class="col-md-9 col-sm-9 col-sm-9 col-xs-9">
                         <hr>
-                        <h3>Info</h3>
+                        <h3>Project Details/Info</h3>
                         <div class="row coralbg white">
-                            <div class="col-md-6 no-pad">
+<!--                            <div class="col-md-6 no-pad">
                                 <div class="user-image">
                                     <img src="https://farm7.staticflickr.com/6163/6195546981_200e87ddaf_b.jpg" class="img-responsive thumbnail">
                                 </div>
-                            </div>
-                            <div class="col-md-6 no-pad">
-                                <div class="header">
-                                    <strong class="primary-font">Jack Sparrow</strong> 
+                            </div>-->
+                            <div class="col-md-12 no-pad">
+                                <div class="tabbable-panel">
+				<div class="tabbable-line tabs-below">
+					<div class="tab-content">
+						<div class="tab-pane active" id="tab_below_1">
+							<p>
+								I'm in Tab 1.
+							</p>
+							<p>
+								Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+							</p>
+							<p>
+								Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat dolor in hendrerit in vulputate velit esse molestie consequat.
+							</p>
+							<p>
+								<a class="btn btn-warning" href="http://j.mp/metronictheme" target="_blank">
+									Learn more...
+								</a>
+							</p>
+						</div>
+						<div class="tab-pane" id="tab_below_2">
+							<p>
+								Howdy, I'm in Tab 2.
+							</p>
+							<p>
+								Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+							</p>
+							<p>
+								<a class="btn btn-danger" href="http://j.mp/metronictheme" target="_blank">
+									Learn more...
+								</a>
+							</p>
+						</div>
+						<div class="tab-pane" id="tab_below_3">
+							<p>
+								Howdy, I'm in Tab 3.
+							</p>
+							<p>
+								Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate.
+							</p>
+							<p>
+								<a class="btn btn-info" href="http://j.mp/metronictheme" target="_blank">
+									Learn more...
+								</a>
+							</p>
+						</div>
+					</div>
+					<ul class="nav nav-tabs">
+						<li class="active">
+							<a href="#tab_below_1" data-toggle="tab">
+							Project Background </a>
+						</li>
+						<li class="">
+							<a href="#tab_below_2" data-toggle="tab">
+							Project Goals</a>
+						</li>
+						<li>
+							<a href="#tab_below_3" data-toggle="tab">
+							Project Details </a>
+						</li>
+					</ul>
+				</div>
+			</div>
+<!--                                <div class="header">
+                                    <strong class="primary-font">Background</strong> 
                                 </div>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
                                     dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
                                     dolor, quis ullamcorper ligula sodales.
-                                </p>
+                                </p>-->
                             </div>
                         </div>
                         <hr>
                         <div class="row coralbg white">
                             <div class="header">
-                                <strong class="primary-font">Jack Sparrow</strong> 
+                                <strong class="primary-font">How it was established</strong> 
                             </div>
                             <div class="col-md-12 no-pad">
                                 <p>
@@ -71,19 +133,54 @@
                                     dolor, quis ullamcorper ligula sodales.
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
                                     dolor, quis ullamcorper ligula sodales.
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
                                 </p>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row coralbg white">
+                            <div class="header">
+                                <h3>Success Stories</h3> 
+                            </div>
+                            <div class="col-md-12 no-pad">
+                                <div class="col-md-4 col-sm-4">
+                                    <div class="card">
+                                        <canvas class="header-bg" width="250" height="70" id="header-blur"></canvas>
+                                        <div class="avatar">
+                                            <img src="" alt="" />
+                                        </div>
+                                        <div class="content">
+                                            <p>Web Developer <br>
+                                                More description here</p>
+                                            <p><button type="button" class="btn btn-default">More Details</button></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4">
+                                    <div class="card">
+                                        <canvas class="header-bg" width="250" height="70" id="header-blur"></canvas>
+                                        <div class="avatar">
+                                            <img src="" alt="" />
+                                        </div>
+                                        <div class="content">
+                                            <p>Web Developer <br>
+                                                More description here</p>
+                                            <p><button type="button" class="btn btn-default">More Details</button></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4">
+                                    <div class="card">
+                                        <canvas class="header-bg" width="250" height="70" id="header-blur"></canvas>
+                                        <div class="avatar">
+                                            <img src="" alt="" />
+                                        </div>
+                                        <div class="content">
+                                            <p>Web Developer <br>
+                                                More description here</p>
+                                            <p><button type="button" class="btn btn-default">More Details</button></p>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <hr>
@@ -111,46 +208,34 @@
                         </div>
                         <hr>
                         <div class="row coralbg white">
-                            <div class="header">
-                                <h3>Most Recent Events</h3> 
+                            <div class="col-md-12 col-sm-12">
+                                <h2>Our Current Progress</h2>
+                                <p>
+                                    We're passionate about the progress we have been able to reach in our projects specific goals.
+                                    With the help of our many sponsors we can proudly display our current progress below..
+                                </p>
                             </div>
-                            <div class="col-md-12 no-pad">
-                                <div class="col-md-6">
-                                    <div class="view">
-                                        <div class="caption">
-                                            <p>47LabsDesign</p>
-                                            <a href="" rel="tooltip" title="Appreciate"><span class="fa fa-heart-o fa-2x"></span></a>
-                                            <a href="" rel="tooltip" title="View"><span class="fa fa-search fa-2x"></span></a>
-                                        </div>
-                                        <img src="http://24.media.tumblr.com/273167b30c7af4437dcf14ed894b0768/tumblr_n5waxesawa1st5lhmo1_1280.jpg" class="img-responsive">
-                                    </div>
-                                    <div class="info">
-                                        <p class="small" style="text-overflow: ellipsis">An Awesome Title</p>
-                                        <p class="small coral text-right"><i class="fa fa-clock-o"></i> Posted Today | 10:42 A.M.</p>
-                                    </div>
-
+                            <!--                    <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">-->
+                            <div class="row overview">
+                                <div class="col-md-4 user-pad text-center">
+                                    <h3>People Helped</h3>
+                                    <h4>12</h4>
                                 </div>
-                                <div class="col-md-6">
-                                    <div class="view">
-                                        <div class="caption">
-                                            <p>47LabsDesign</p>
-                                            <a href="" rel="tooltip" title="Appreciate"><span class="fa fa-heart-o fa-2x"></span></a>
-                                            <a href="" rel="tooltip" title="View"><span class="fa fa-search fa-2x"></span></a>
-                                        </div>
-                                        <img src="http://24.media.tumblr.com/282fadab7d782edce9debf3872c00ef1/tumblr_n3tswomqPS1st5lhmo1_1280.jpg" class="img-responsive">
-                                    </div>
-                                    <div class="info">
-                                        <p class="small" style="text-overflow: ellipsis">An Awesome Title</p>
-                                        <p class="small coral text-right"><i class="fa fa-clock-o"></i> Posted Today | 10:42 A.M.</p>
-                                    </div>
-
+                                <div class="col-md-4 user-pad text-center">
+                                    <h3>Funds Sponsored</h3>
+                                    <h4>$4500</h4>
                                 </div>
+                                <div class="col-md-4 user-pad text-center">
+                                    <h3>Projects Created</h3>
+                                    <h4>10</h4>
+                                </div>
+                                <div></div>
                             </div>
                         </div>
                         <hr>
 
                     </div>
-                    <div class="col-md-4 col-sm-4 col-sm-4 col-xs-4">
+                    <div class="col-md-3 col-sm-3 col-sm-3 col-xs-3">
                         <hr>
                         <h3>Upcoming Events</h3>
 
