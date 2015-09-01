@@ -90,24 +90,62 @@
                         With the help of our many sponsors we can proudly display our current progress below..
                     </p>
                 </div>
-                <div class="row overview">
-                    <div class="col-md-4 user-pad text-center">
-                        <h3>People Helped</h3>
-                        <h4>12</h4>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                        <div class="offer offer-default">
+                            <div class="shape">
+                                <div class="shape-text">
+                                    tip								
+                                </div>
+                            </div>
+                            <div class="offer-content">
+                                <h3 class="lead">
+                                    People Sponsored
+                                </h3>
+                                <p>
+                                    12
+                                </p>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-md-4 user-pad text-center">
-                        <h3>Funds Sponsored</h3>
-                        <h4>$4500</h4>
+                    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                        <div class="offer offer-default">
+                            <div class="shape">
+                                <div class="shape-text">
+                                    tip								
+                                </div>
+                            </div>
+                            <div class="offer-content">
+                                <h3 class="lead">
+                                    Funds Sponsored
+                                </h3>
+                                <p>
+                                    $4500
+                                </p>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-md-4 user-pad text-center">
-                        <h3>Projects Created</h3>
-                        <h4>10</h4>
+                    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                        <div class="offer offer-default">
+                            <div class="shape">
+                                <div class="shape-text">
+                                    tip								
+                                </div>
+                            </div>
+                            <div class="offer-content">
+                                <h3 class="lead">
+                                    Projects Created
+                                </h3>
+                                <p>
+                                    12
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-xs-6 col-lg-6 col-md-offset-5">
                     <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace"> Current Progress Details</a>
                 </div>
-                <!--                    </div>-->
             </div>
             <div class="col-md-3 col-sm-3 contentRight drop_shadow">
                 <div class="col-md-12 col-sm-12">
@@ -151,15 +189,6 @@
                     </div>
 
                     <hr class="featurette-divider ">
-
-                    <!--                    <div class="newsletter">
-                                            <h3 class="left">Other ways to get involved</h3>
-                                            <div class="force_break"></div>
-                                            <p>
-                                                You can donate resources or any materials that can be used for the different projects the youths are involved in.
-                                            </p>
-                                        </div>-->
-
                 </div>
             </div>
         </div>
