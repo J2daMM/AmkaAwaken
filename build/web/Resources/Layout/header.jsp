@@ -22,22 +22,25 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="index.htm"><span class="glyphicon glyphicon-home"></span>&nbsp; Home</a></li>
                         <li><a href="donate.htm"><span class="glyphicon glyphicon-info-sign"></span>&nbsp; DONATE</a></li>
-                        <li class="dropdown">
+                        <li><a href="involved.htm"><span class="glyphicon glyphicon-folder-open"></span>&nbsp; Get Involved</a> </li>
+                        <li><a href="projects.htm"><span class="glyphicon glyphicon-folder-open"></span>&nbsp; Projects</a> </li>
+<!--                        <li class="dropdown">
+                            
                             <a href="involved.htm" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open">&nbsp;</span>&nbsp; Get Involved <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="involved.htm">Get Involved</a> </li>
-                                <!--                                <li><a href="events.htm">Photo Gallery</a></li>-->
+                                                                <li><a href="events.htm">Photo Gallery</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
                             <a href="involved.htm" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open">&nbsp;</span>&nbsp; Projects <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="projects.htm">Our Projects</a> </li>
-<!--                                <li><a href="our_goals.htm">Our Goals</a></li>-->
-<!--                                <li><a href="our_goals.htm">Our Goals</a></li>-->
-                                <!--                                <li><a href="gallery.htm">Photo Gallery</a></li>-->
+                                <li><a href="our_goals.htm">Our Goals</a></li>
+                                <li><a href="our_goals.htm">Our Goals</a></li>
+                                                                <li><a href="gallery.htm">Photo Gallery</a></li>
                             </ul>
-                        </li>
+                        </li>-->
                         <li class="dropdown">
                             <a href="about_us.htm" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open">&nbsp;</span>&nbsp; About Us <b class="caret"></b></a>
                             <ul class="dropdown-menu">

@@ -81,8 +81,8 @@
 
                 <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
                     <hr>
-
                 </div>
+
                 <div class="col-md-12 col-sm-12">
                     <h2>Our Current Progress</h2>
                     <p>
@@ -90,12 +90,13 @@
                         With the help of our many sponsors we can proudly display our current progress below..
                     </p>
                 </div>
+
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                        <div class="offer offer-default">
+                        <div class="user-menu-list">
                             <div class="shape">
                                 <div class="shape-text">
-                                    tip								
+                                    info								
                                 </div>
                             </div>
                             <div class="offer-content">
@@ -109,10 +110,10 @@
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                        <div class="offer offer-default">
+                        <div class="user-menu-list">
                             <div class="shape">
                                 <div class="shape-text">
-                                    tip								
+                                    info								
                                 </div>
                             </div>
                             <div class="offer-content">
@@ -126,10 +127,10 @@
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                        <div class="offer offer-default">
+                        <div class="user-menu-list">
                             <div class="shape">
                                 <div class="shape-text">
-                                    tip								
+                                    info								
                                 </div>
                             </div>
                             <div class="offer-content">
@@ -142,34 +143,35 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-6 col-xs-6 col-lg-6 col-md-offset-5">
-                    <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace"> Current Progress Details</a>
+
+                    <div class="col-md-6 col-xs-6 col-lg-6 col-md-offset-5" style="padding-top: 15px">
+                        <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace"> View All Current Progress Details</a>
+                    </div>
                 </div>
             </div>
             <div class="col-md-3 col-sm-3 contentRight drop_shadow">
                 <div class="col-md-12 col-sm-12">
                     <h3>News</h3>
-                    <a href="news.htm">06/05/2014: Hunger Walk</a><br/>
-                    <a href="news.htm">06/23/2014: Education Walk</a><br/>
-                    <a href="news.htm">06/30/2014: Maji Walk</a><br/>
-                    <a href="news.htm">06/30/2014: Maji Walk</a><br/>
+                    <a href="news_blogs.htm">06/05/2014: Hunger Walk</a><br/>
+                    <a href="news_blogs.htm">06/23/2014: Education Walk</a><br/>
+                    <a href="news_blogs.htm">06/30/2014: Maji Walk</a><br/>
+                    <a href="news_blogs.htm">06/30/2014: Maji Walk</a><br/>
 
                     <hr class="featurette-divider "> 
 
                     <h3>Blogs</h3>
-                    <a href="news.htm">06/05/2014: Hunger Walk</a><br/>
-                    <a href="news.htm">06/23/2014: Education Walk</a><br/>
-                    <a href="news.htm">06/30/2014: Maji Walk</a><br/>
-                    <a href="news.htm">06/30/2014: Maji Walk</a><br/>
+                    <a href="news_blogs.htm">06/05/2014: Hunger Walk</a><br/>
+                    <a href="news_blogs.htm">06/23/2014: Education Walk</a><br/>
+                    <a href="news_blogs.htm">06/30/2014: Maji Walk</a><br/>
+                    <a href="news_blogs.htm">06/30/2014: Maji Walk</a><br/>
 
                     <hr class="featurette-divider ">
 
                     <h3>Events</h3>
-                    <a href="news.htm">06/05/2014: Hunger Walk</a><br/>
-                    <a href="news.htm">06/23/2014: Education Walk</a><br/>
-                    <a href="news.htm">06/23/2014: Education Walk</a><br/>
-                    <a href="news.htm">06/30/2014: Maji Walk</a><br/>
+                    <a href="events.htm">06/05/2014: Hunger Walk</a><br/>
+                    <a href="events.htm">06/23/2014: Education Walk</a><br/>
+                    <a href="events.htm">06/23/2014: Education Walk</a><br/>
+                    <a href="events.htm">06/30/2014: Maji Walk</a><br/>
 
                     <hr class="featurette-divider "> 
 

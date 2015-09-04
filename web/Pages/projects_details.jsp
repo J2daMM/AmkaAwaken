@@ -32,82 +32,82 @@
                         <hr>
                         <h3>Project Details/Info</h3>
                         <div class="row coralbg white">
-<!--                            <div class="col-md-6 no-pad">
-                                <div class="user-image">
-                                    <img src="https://farm7.staticflickr.com/6163/6195546981_200e87ddaf_b.jpg" class="img-responsive thumbnail">
-                                </div>
-                            </div>-->
+                            <!--                            <div class="col-md-6 no-pad">
+                                                            <div class="user-image">
+                                                                <img src="https://farm7.staticflickr.com/6163/6195546981_200e87ddaf_b.jpg" class="img-responsive thumbnail">
+                                                            </div>
+                                                        </div>-->
                             <div class="col-md-12 no-pad">
                                 <div class="tabbable-panel">
-				<div class="tabbable-line tabs-below">
-					<div class="tab-content">
-						<div class="tab-pane active" id="tab_below_1">
-							<p>
-								I'm in Tab 1.
-							</p>
-							<p>
-								Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
-							</p>
-							<p>
-								Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat dolor in hendrerit in vulputate velit esse molestie consequat.
-							</p>
-							<p>
-								<a class="btn btn-warning" href="http://j.mp/metronictheme" target="_blank">
-									Learn more...
-								</a>
-							</p>
-						</div>
-						<div class="tab-pane" id="tab_below_2">
-							<p>
-								Howdy, I'm in Tab 2.
-							</p>
-							<p>
-								Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
-							</p>
-							<p>
-								<a class="btn btn-danger" href="http://j.mp/metronictheme" target="_blank">
-									Learn more...
-								</a>
-							</p>
-						</div>
-						<div class="tab-pane" id="tab_below_3">
-							<p>
-								Howdy, I'm in Tab 3.
-							</p>
-							<p>
-								Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate.
-							</p>
-							<p>
-								<a class="btn btn-info" href="http://j.mp/metronictheme" target="_blank">
-									Learn more...
-								</a>
-							</p>
-						</div>
-					</div>
-					<ul class="nav nav-tabs">
-						<li class="active">
-							<a href="#tab_below_1" data-toggle="tab">
-							Project Background </a>
-						</li>
-						<li class="">
-							<a href="#tab_below_2" data-toggle="tab">
-							Project Goals</a>
-						</li>
-						<li>
-							<a href="#tab_below_3" data-toggle="tab">
-							Project Details </a>
-						</li>
-					</ul>
-				</div>
-			</div>
-<!--                                <div class="header">
-                                    <strong class="primary-font">Background</strong> 
+                                    <div class="tabbable-line tabs-below">
+                                        <div class="tab-content">
+                                            <div class="tab-pane active" id="tab_below_1">
+                                                <p>
+                                                    I'm in Tab 1.
+                                                </p>
+                                                <p>
+                                                    Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+                                                </p>
+                                                <p>
+                                                    Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat dolor in hendrerit in vulputate velit esse molestie consequat.
+                                                </p>
+                                                <p>
+                                                    <a class="btn btn-warning" href="http://j.mp/metronictheme" target="_blank">
+                                                        Learn more...
+                                                    </a>
+                                                </p>
+                                            </div>
+                                            <div class="tab-pane" id="tab_below_2">
+                                                <p>
+                                                    Howdy, I'm in Tab 2.
+                                                </p>
+                                                <p>
+                                                    Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+                                                </p>
+                                                <p>
+                                                    <a class="btn btn-danger" href="http://j.mp/metronictheme" target="_blank">
+                                                        Learn more...
+                                                    </a>
+                                                </p>
+                                            </div>
+                                            <div class="tab-pane" id="tab_below_3">
+                                                <p>
+                                                    Howdy, I'm in Tab 3.
+                                                </p>
+                                                <p>
+                                                    Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate.
+                                                </p>
+                                                <p>
+                                                    <a class="btn btn-info" href="http://j.mp/metronictheme" target="_blank">
+                                                        Learn more...
+                                                    </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <ul class="nav nav-tabs">
+                                            <li class="active">
+                                                <a href="#tab_below_1" data-toggle="tab">
+                                                    Project Background </a>
+                                            </li>
+                                            <li class="">
+                                                <a href="#tab_below_2" data-toggle="tab">
+                                                    Project Goals</a>
+                                            </li>
+                                            <li>
+                                                <a href="#tab_below_3" data-toggle="tab">
+                                                    Project Details </a>
+                                            </li>
+                                        </ul>
+                                    </div>
                                 </div>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                </p>-->
+                                <!--                                <div class="header">
+                                                                    <strong class="primary-font">Background</strong> 
+                                                                </div>
+                                                                <p>
+                                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
+                                                                    dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
+                                                                    dolor, quis ullamcorper ligula sodales.
+                                                                </p>-->
                             </div>
                         </div>
                         <hr>
@@ -215,25 +215,67 @@
                                     With the help of our many sponsors we can proudly display our current progress below..
                                 </p>
                             </div>
-                            <!--                    <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">-->
-                            <div class="row overview">
-                                <div class="col-md-4 user-pad text-center">
-                                    <h3>People Helped</h3>
-                                    <h4>12</h4>
-                                </div>
-                                <div class="col-md-4 user-pad text-center">
-                                    <h3>Funds Sponsored</h3>
-                                    <h4>$4500</h4>
-                                </div>
-                                <div class="col-md-4 user-pad text-center">
-                                    <h3>Projects Created</h3>
-                                    <h4>10</h4>
-                                </div>
-                                <div></div>
-                            </div>
-                        </div>
-                        <hr>
 
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                                    <div class="user-menu-list">
+                                        <div class="shape">
+                                            <div class="shape-text">
+                                                info								
+                                            </div>
+                                        </div>
+                                        <div class="offer-content">
+                                            <h3 class="lead">
+                                                People Sponsored
+                                            </h3>
+                                            <p>
+                                                12
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                                    <div class="user-menu-list">
+                                        <div class="shape">
+                                            <div class="shape-text">
+                                                info								
+                                            </div>
+                                        </div>
+                                        <div class="offer-content">
+                                            <h3 class="lead">
+                                                Funds Sponsored
+                                            </h3>
+                                            <p>
+                                                $4500
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                                    <div class="user-menu-list">
+                                        <div class="shape">
+                                            <div class="shape-text">
+                                                info								
+                                            </div>
+                                        </div>
+                                        <div class="offer-content">
+                                            <h3 class="lead">
+                                                Projects Created
+                                            </h3>
+                                            <p>
+                                                12
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 col-xs-6 col-lg-6 col-md-offset-3" style="padding-top: 15px">
+                                    <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace"> View Projects Current Progress Details</a>
+                                </div>
+                            </div>
+                            <hr>
+
+                        </div>
                     </div>
                     <div class="col-md-3 col-sm-3 col-sm-3 col-xs-3">
                         <hr>
@@ -330,8 +372,8 @@
                         </div>
 
                     </div>
+
                 </div>
             </div>
         </div>
     </div>
-</div>
