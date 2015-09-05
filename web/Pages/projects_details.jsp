@@ -149,7 +149,7 @@
                                             <img src="" alt="" />
                                         </div>
                                         <div class="content">
-                                            <p>Web Developer <br>
+                                            <p>Mother Jane <br>
                                                 More description here</p>
                                             <p><button type="button" class="btn btn-default">More Details</button></p>
                                         </div>
@@ -162,7 +162,7 @@
                                             <img src="" alt="" />
                                         </div>
                                         <div class="content">
-                                            <p>Web Developer <br>
+                                            <p>Joe Farmer <br>
                                                 More description here</p>
                                             <p><button type="button" class="btn btn-default">More Details</button></p>
                                         </div>
@@ -175,7 +175,7 @@
                                             <img src="" alt="" />
                                         </div>
                                         <div class="content">
-                                            <p>Web Developer <br>
+                                            <p>Joe Plumber <br>
                                                 More description here</p>
                                             <p><button type="button" class="btn btn-default">More Details</button></p>
                                         </div>
@@ -192,17 +192,18 @@
                                 <div class="plan-name-gray col-md-4 col-sm-4 drop_shadow ">
                                     <h3>Make A Donation</h3>
                                     <hr>
-                                    <a href="donate.htm" class="btn btn-primary" title="Enlace">Get Started</a>
+                                    <a href="donate.htm" class="btn btn-primary" title="Enlace">Donate Money</a>
+<!--                                    <a href="donate.htm" class="btn btn-primary" title="Enlace">Other Donations</a>-->
                                 </div>
                                 <div class="plan-name-gray col-md-4 col-sm-4 drop_shadow ">
-                                    <h3>Donate Resources</h3>
+                                    <h3>Volunteer/Organize</h3>
                                     <hr>
-                                    <a href="donate.htm" class="btn btn-primary" title="Enlace">Get Started</a>
+                                    <a href="donate.htm" class="btn btn-primary" title="Enlace">Get Involved</a>
                                 </div>
                                 <div class="plan-name-gray col-md-4 col-sm-4 drop_shadow ">
-                                    <h3>Start A Campaign</h3>
+                                    <h3>Become A Sponsor</h3>
                                     <hr>
-                                    <a href="involved.htm" class="btn btn-primary" title="Enlace">Get Started</a>
+                                    <a href="involved.htm" class="btn btn-primary" title="Enlace">Become A Sponsor</a>
                                 </div>
                             </div>
                         </div>
@@ -228,9 +229,9 @@
                                             <h3 class="lead">
                                                 People Sponsored
                                             </h3>
-                                            <p>
+                                            <h4>
                                                 12
-                                            </p>
+                                            </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -245,9 +246,9 @@
                                             <h3 class="lead">
                                                 Funds Sponsored
                                             </h3>
-                                            <p>
+                                            <h4>
                                                 $4500
-                                            </p>
+                                            </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -262,9 +263,9 @@
                                             <h3 class="lead">
                                                 Projects Created
                                             </h3>
-                                            <p>
+                                            <h4>
                                                 12
-                                            </p>
+                                            </h4>
                                         </div>
                                     </div>
                                 </div>

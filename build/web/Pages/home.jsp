@@ -103,9 +103,9 @@
                                 <h3 class="lead">
                                     People Sponsored
                                 </h3>
-                                <p>
+                                <h4>
                                     12
-                                </p>
+                                </h4>
                             </div>
                         </div>
                     </div>
@@ -120,9 +120,9 @@
                                 <h3 class="lead">
                                     Funds Sponsored
                                 </h3>
-                                <p>
+                                <h4>
                                     $4500
-                                </p>
+                                </h4>
                             </div>
                         </div>
                     </div>
@@ -137,9 +137,9 @@
                                 <h3 class="lead">
                                     Projects Created
                                 </h3>
-                                <p>
+                                <h4>
                                     12
-                                </p>
+                                </h4>
                             </div>
                         </div>
                     </div>
