@@ -1319,7 +1319,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
     transition: all 0.4s ease-in-out;
 }*/
 .shape {
-    border-color: rgba(255,255,255,0) #d9534f rgba(255,255,255,0) rgba(255,255,255,0);
+    border-color: rgba(255,255,255,0) #428BCA rgba(255,255,255,0) rgba(255,255,255,0);
 }
 .offer-radius{
     border-radius:7px;
