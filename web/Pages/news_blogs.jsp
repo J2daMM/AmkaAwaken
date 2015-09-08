@@ -35,111 +35,194 @@
                     <div class="col-md-12 col-sm-12">
                         <h3>News</h3>
                         <hr>
-                        <div class="row coralbg white">
-                            <div class="col-md-6 no-pad">
+                        <div class="row">
+                            <div class="col-md-6">
                                 <div class="user-image">
                                     <img src="https://farm7.staticflickr.com/6163/6195546981_200e87ddaf_b.jpg" class="img-responsive thumbnail">
                                 </div>
                             </div>
                             <div class="col-md-6 no-pad">
                                 <div class="header">
-                                    <strong class="primary-font">Jack Sparrow</strong> 
+                                    <strong class="primary-font">News Heading</strong> 
                                 </div>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
                                     dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
+                                    dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
+                                    dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
+                                    dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
                                     dolor, quis ullamcorper ligula sodales.
                                 </p>
                                 <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>12 mins ago
+                                    <span class="glyphicon glyphicon-time"></span>12/12/2013
                                     <span class="glyphicon glyphicon-asterisk"></span>
                                     <a href="#">Read More</a>
                                 </small>
                             </div>
                         </div>
                         <hr>
-                        <div class="row coralbg white">
-                            <div class="header">
-                                <strong class="primary-font">Jack Sparrow</strong> 
-                            </div>
-                            <div class="col-md-12 no-pad">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                </p>
-                                <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>12 mins ago
-                                    <span class="glyphicon glyphicon-asterisk"></span>
-                                    <a href="#">Read More</a>
-                                </small>
-                            </div>
-                        </div>
-                        <hr>
-                        <div class="row coralbg white">
-                            <div class="header">
-                                <strong class="primary-font">Jack Sparrow</strong> 
-                            </div>
-                            <div class="col-md-12 no-pad">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                </p>
-                                <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>12 mins ago
-                                    <span class="glyphicon glyphicon-asterisk"></span>
-                                    <a href="#">Read More</a>
-                                </small>
-                            </div>
-                        </div>
-                        <hr>
-                        <div class="row coralbg white">
-                            <div class="header">
-                                <strong class="primary-font">Jack Sparrow</strong> 
-                            </div>
-                            <div class="col-md-12 no-pad">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                </p>
-                                <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>12 mins ago
-                                    <span class="glyphicon glyphicon-asterisk"></span>
-                                    <a href="#">Read More</a>
-                                </small>
-                            </div>
-                        </div>
-                        <hr>
-                        <div class="row coralbg white">
-                            <div class="header">
-                                <strong class="primary-font">Jack Sparrow</strong> 
-                            </div>
-                            <div class="col-md-12 no-pad">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                </p>
-                                <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>12 mins ago
-                                    <span class="glyphicon glyphicon-asterisk"></span>
-                                    <a href="#">Read More</a>
-                                </small>
+                        <div class="row ">
+                            <div class="col-md-12  col-sm-12">
+                                <ul>
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem </p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                         <hr>
-                        <div class="row coralbg white">
-                            <div class="header">
-                                <strong class="primary-font">Jack Sparrow</strong> 
+                        <div class="row ">
+                            <div class="col-md-12 ">
+                                <ul class="thumbnails">
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
                             </div>
-                            <div class="col-md-12 no-pad">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
-                                </p>
-                                <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>12 mins ago
-                                    <span class="glyphicon glyphicon-asterisk"></span>
-                                    <a href="#">Read More</a>
-                                </small>
+                        </div>
+                        <hr>
+                        <div class="row ">
+                            <div class="col-md-12 ">
+                                <ul class="thumbnails">
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="col-sm-3">
+                                        <div class="fff">
+                                            <div class="thumbnail">
+                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4>Praesent commodo</h4>
+                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                <a class="btn btn-mini" href="#">» Read More</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                         <hr>
@@ -161,7 +244,7 @@
                                     dolor, quis ullamcorper ligula sodales.
                                 </p>
                                 <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>12 mins ago
+                                    <span class="glyphicon glyphicon-time"></span>12/12/2013
                                     <span class="glyphicon glyphicon-asterisk"></span>
                                     <a href="#">Read More</a>
                                 </small>
@@ -176,7 +259,7 @@
                                     dolor, quis ullamcorper ligula sodales.
                                 </p>
                                 <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>12 mins ago
+                                    <span class="glyphicon glyphicon-time"></span>12/12/2013
                                     <span class="glyphicon glyphicon-asterisk"></span>
                                     <a href="#">Read More</a></small>
                             </div>
@@ -190,7 +273,7 @@
                                     dolor, quis ullamcorper ligula sodales.
                                 </p>
                                 <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>12 mins ago
+                                    <span class="glyphicon glyphicon-time"></span>12/12/2013
                                     <span class="glyphicon glyphicon-asterisk"></span>
                                     <a href="#">Read More</a>
                                 </small>
@@ -205,7 +288,7 @@
                                     dolor, quis ullamcorper ligula sodales.
                                 </p>
                                 <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>14 mins ago
+                                    <span class="glyphicon glyphicon-time"></span>12/12/2013
                                     <span class="glyphicon glyphicon-asterisk"></span>
                                     <a href="#">Read More</a></small>
                             </div>
@@ -219,7 +302,7 @@
                                     dolor, quis ullamcorper ligula sodales.
                                 </p>
                                 <small class="text-muted">
-                                    <span class="glyphicon glyphicon-time"></span>14 mins ago
+                                    <span class="glyphicon glyphicon-time"></span>12/12/2013
                                     <span class="glyphicon glyphicon-asterisk"></span>
                                     <a href="#">Read More</a></small>
                             </div>
