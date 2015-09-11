@@ -16,8 +16,13 @@
     </div>
 
     <div class="row">
+<<<<<<< HEAD
         <div class="col-md-12" >
             <h2>Meet <span class="text-muted">us</span></h2>
+=======
+        <div class="col-md-12">
+            <h2>Meet <span class="text-muted"> us in p</span></h2>
+>>>>>>> 2f519fa2c6d4b22838ce9dc8bf742eb1aa17a35a
         </div>
 
         <div class="row">
