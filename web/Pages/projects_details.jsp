@@ -26,11 +26,11 @@
         </div>
 
         <div class="row" >
-            <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-10 col-xs-offset-1">
-                <div class="row">
-                    <div class="col-md-9 col-sm-9 col-sm-9 col-xs-9">
+            <div class="col-md-12 col-sm-12 " >
+                <div class="col-md-9 col-sm-9">
+                    <div class="col-md-12 col-sm-12">
                         <hr>
-                        <h3>Project Details/Info</h3>
+<!--                        <h3>Project Details/Info</h3>-->
                         <div class="row coralbg white">
                             <!--                            <div class="col-md-6 no-pad">
                                                             <div class="user-image">
@@ -42,9 +42,9 @@
                                     <div class="tabbable-line tabs-below">
                                         <div class="tab-content">
                                             <div class="tab-pane active" id="tab_below_1">
-                                                <p>
-                                                    I'm in Tab 1.
-                                                </p>
+                                                <h4>
+                                                    Project Background
+                                                </h4>
                                                 <p>
                                                     Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
                                                 </p>
@@ -53,33 +53,33 @@
                                                 </p>
                                                 <p>
                                                     <a class="btn btn-warning" href="http://j.mp/metronictheme" target="_blank">
-                                                        Learn more...
+                                                        Read more...
                                                     </a>
                                                 </p>
                                             </div>
                                             <div class="tab-pane" id="tab_below_2">
-                                                <p>
-                                                    Howdy, I'm in Tab 2.
-                                                </p>
+                                                <h4>
+                                                    Project Goals
+                                                </h4>
                                                 <p>
                                                     Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
                                                 </p>
                                                 <p>
                                                     <a class="btn btn-danger" href="http://j.mp/metronictheme" target="_blank">
-                                                        Learn more...
+                                                        Read more...
                                                     </a>
                                                 </p>
                                             </div>
                                             <div class="tab-pane" id="tab_below_3">
-                                                <p>
-                                                    Howdy, I'm in Tab 3.
-                                                </p>
+                                                <h4>
+                                                    Project Details
+                                                </h4>
                                                 <p>
                                                     Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate.
                                                 </p>
                                                 <p>
                                                     <a class="btn btn-info" href="http://j.mp/metronictheme" target="_blank">
-                                                        Learn more...
+                                                        Read more...
                                                     </a>
                                                 </p>
                                             </div>
@@ -193,7 +193,7 @@
                                     <h3>Make A Donation</h3>
                                     <hr>
                                     <a href="donate.htm" class="btn btn-primary" title="Enlace">Donate Money</a>
-<!--                                    <a href="donate.htm" class="btn btn-primary" title="Enlace">Other Donations</a>-->
+                                    <!--                                    <a href="donate.htm" class="btn btn-primary" title="Enlace">Other Donations</a>-->
                                 </div>
                                 <div class="plan-name-gray col-md-4 col-sm-4 drop_shadow ">
                                     <h3>Volunteer/Organize</h3>
@@ -208,7 +208,7 @@
                             </div>
                         </div>
                         <hr>
-                        <div class="row coralbg white">
+                        <div class="row coralbg ">
                             <div class="col-md-12 col-sm-12">
                                 <h2>Our Current Progress</h2>
                                 <p>
@@ -217,70 +217,69 @@
                                 </p>
                             </div>
 
-                            <div class="row">
-                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                                    <div class="user-menu-list">
-                                        <div class="shape">
-                                            <div class="shape-text">
-                                                info								
-                                            </div>
-                                        </div>
-                                        <div class="offer-content">
-                                            <h3 class="lead">
-                                                People Sponsored
-                                            </h3>
-                                            <h4>
-                                                12
-                                            </h4>
+                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                                <div class="user-menu-list">
+                                    <div class="shape">
+                                        <div class="shape-text">
+                                            info								
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                                    <div class="user-menu-list">
-                                        <div class="shape">
-                                            <div class="shape-text">
-                                                info								
-                                            </div>
-                                        </div>
-                                        <div class="offer-content">
-                                            <h3 class="lead">
-                                                Funds Sponsored
-                                            </h3>
-                                            <h4>
-                                                $4500
-                                            </h4>
-                                        </div>
+                                    <div class="offer-content">
+                                        <h3 class="lead">
+                                            People Sponsored
+                                        </h3>
+                                        <h4>
+                                            12
+                                        </h4>
                                     </div>
-                                </div>
-                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                                    <div class="user-menu-list">
-                                        <div class="shape">
-                                            <div class="shape-text">
-                                                info								
-                                            </div>
-                                        </div>
-                                        <div class="offer-content">
-                                            <h3 class="lead">
-                                                Projects Created
-                                            </h3>
-                                            <h4>
-                                                12
-                                            </h4>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-6 col-xs-6 col-lg-6 col-md-offset-3" style="padding-top: 15px">
-                                    <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace"> View Projects Current Progress Details</a>
                                 </div>
                             </div>
-                            <hr>
+                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                                <div class="user-menu-list">
+                                    <div class="shape">
+                                        <div class="shape-text">
+                                            info								
+                                        </div>
+                                    </div>
+                                    <div class="offer-content">
+                                        <h3 class="lead">
+                                            Funds Sponsored
+                                        </h3>
+                                        <h4>
+                                            $4500
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                                <div class="user-menu-list">
+                                    <div class="shape">
+                                        <div class="shape-text">
+                                            info								
+                                        </div>
+                                    </div>
+                                    <div class="offer-content">
+                                        <h3 class="lead">
+                                            Projects Created
+                                        </h3>
+                                        <h4>
+                                            12
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
 
+                            <div class="col-md-6 col-xs-6 col-lg-6 col-md-offset-3" style="padding-top: 15px">
+                                <a href="our_sponsorship_details.htm" class="btn btn-primary" title="Enlace"> View Projects Current Progress Details</a>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-md-3 col-sm-3 col-sm-3 col-xs-3">
+                </div>
+
+                <div class="col-md-3 col-sm-3">
+                    <div class="col-md-12 col-sm-12">
                         <hr>
-                        <h3>Upcoming Events</h3>
+                        <h3>Events</h3>
 
                         <div class="panel-body">
                             <div class="chat-body clearfix">
@@ -371,10 +370,10 @@
                             </div>
                             <hr>
                         </div>
-
                     </div>
-
                 </div>
+
+
             </div>
         </div>
     </div>

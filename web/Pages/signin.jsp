@@ -77,7 +77,8 @@
                                             </div>
                                         </div>
 
-                                        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign In</button>
+                                        <a href="sponsors_profile.htm" class="btn btn-primary" title="Enlace">Sign In</a>
+<!--                                        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign In</button>-->
                                     </form>
                                 </div>
                             </div>

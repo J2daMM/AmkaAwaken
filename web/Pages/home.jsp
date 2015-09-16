@@ -149,29 +149,32 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-3 contentRight drop_shadow">
+            <div class="col-md-3 col-sm-3 contentRight">
                 <div class="col-md-12 col-sm-12">
                     <h3>News</h3>
-                    <a href="news_blogs.htm">06/05/2014: Hunger Walk</a><br/>
-                    <a href="news_blogs.htm">06/23/2014: Education Walk</a><br/>
-                    <a href="news_blogs.htm">06/30/2014: Maji Walk</a><br/>
-                    <a href="news_blogs.htm">06/30/2014: Maji Walk</a><br/>
-
+                    <ul class="list-group">
+                        <li class="list-group-item"> <a href="news_blogs.htm">06/05/2014: Hunger Walk</a></li>
+                        <li class="list-group-item"> <a href="news_blogs.htm">06/23/2014: Education Walk</a></li>
+                        <li class="list-group-item"> <a href="news_blogs.htm">06/30/2014: Maji Walk</a></li>
+                    </ul>
+                    
                     <hr class="featurette-divider "> 
 
                     <h3>Blogs</h3>
-                    <a href="news_blogs.htm">06/05/2014: Hunger Walk</a><br/>
-                    <a href="news_blogs.htm">06/23/2014: Education Walk</a><br/>
-                    <a href="news_blogs.htm">06/30/2014: Maji Walk</a><br/>
-                    <a href="news_blogs.htm">06/30/2014: Maji Walk</a><br/>
+                    <ul class="list-group">
+                        <li class="list-group-item"> <a href="news_blogs.htm">06/05/2014: Hunger Walk</a></li>
+                        <li class="list-group-item"> <a href="news_blogs.htm">06/23/2014: Education Walk</a></li>
+                        <li class="list-group-item"> <a href="news_blogs.htm">06/30/2014: Maji Walk</a></li>
+                    </ul>                  
 
                     <hr class="featurette-divider ">
 
                     <h3>Events</h3>
-                    <a href="events.htm">06/05/2014: Hunger Walk</a><br/>
-                    <a href="events.htm">06/23/2014: Education Walk</a><br/>
-                    <a href="events.htm">06/23/2014: Education Walk</a><br/>
-                    <a href="events.htm">06/30/2014: Maji Walk</a><br/>
+                    <ul class="list-group">
+                        <li class="list-group-item"> <a href="events.htm">06/05/2014: Hunger Walk</a></li>
+                        <li class="list-group-item"> <a href="events.htm">06/23/2014: Education Walk</a></li>
+                        <li class="list-group-item"> <a href="events.htm">06/30/2014: Maji Walk</a></li>
+                    </ul> 
 
                     <hr class="featurette-divider "> 
 
