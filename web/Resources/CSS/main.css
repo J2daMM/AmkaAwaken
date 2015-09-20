@@ -254,6 +254,11 @@ a:hover{
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
+.carousel-caption .text-muted
+{
+    color: #fff;
+}
+
 /* Declare heights because of positioning of img element */
 .carousel .item {
     height: 300px;
