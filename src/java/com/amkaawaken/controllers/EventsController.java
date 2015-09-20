@@ -15,7 +15,7 @@ import org.springframework.web.servlet.ModelAndView;
  * @author JMwash
  */
 @Controller
-public class GalleryController {
+public class EventsController {
     
     @RequestMapping(value = "/gallery.htm", method = RequestMethod.GET)
     public ModelAndView gallery()
