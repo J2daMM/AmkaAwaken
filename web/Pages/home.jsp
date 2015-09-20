@@ -19,7 +19,8 @@
                 <img src="./Resources/Images/Carousel/rotator1.jpg" alt="First slide"  class="img-responsive">
                 <div class="container">
                     <div class="carousel-caption">
-                        <p>'There can be no revelation of a society's soul than the way in which it treats it's children.' - Nelson Mandela</p>
+                        <h2>Amka-Awaken Youth Organization - <span class="text-muted">empower the youth to take ownership and responsibility with goal oriented projects..</span></h2>
+<!--                        <p>'There can be no revelation of a society's soul than the way in which it treats it's children.' - Nelson Mandela</p>-->
                         <a href="involved.htm" class="btn btn-primary" title="Enlace"><h4>Get Involved</h4></a>
                     </div>
 
@@ -29,7 +30,8 @@
                 <img src="./Resources/Images/Carousel/rotator2.jpg" alt="Second slide" class="img-responsive">
                 <div class="container">
                     <div class="carousel-caption">
-                        <p>'Children are great imitators. So give them something great to imitate.' - Anonymous</p>
+                        <h2>Amka-Awaken Youth Organization - <span class="text-muted">empower the community by working with its women's groups and projects..</span></h2>
+<!--                        <p>'Children are great imitators. So give them something great to imitate.' - Anonymous</p>-->
                         <a href="involved.htm" class="btn btn-primary" title="Enlace"><h4>Get Involved</h4></a>
                     </div>
                 </div>
@@ -38,7 +40,8 @@
                 <img src="./Resources/Images/Carousel/rotator3.jpg" alt="Third slide" class="img-responsive">
                 <div class="container">
                     <div class="carousel-caption">
-                        <p>'Give a boy a fish and you feed him for a day. Teach a boy to fish and you feed him for a lifetime.' - Chinese Proverb</p>
+                        <h2>Amka-Awaken Youth Organization - <span class="text-muted">work with the communities water projects to bring about clean water resources..</span></h2>
+<!--                        <p>'Give a boy a fish and you feed him for a day. Teach a boy to fish and you feed him for a lifetime.' - Chinese Proverb</p>-->
                         <a href="involved.htm" class="btn btn-primary" title="Enlace"><h4>Get Involved</h4></a>
                     </div>
                 </div>

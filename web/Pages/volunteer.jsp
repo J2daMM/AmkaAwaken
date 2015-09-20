@@ -1,6 +1,6 @@
 <%-- 
-    Document   : events
-    Created on : Jun 3, 2014, 2:40:05 PM
+    Document   : volunteer
+    Created on : Sep 19, 2015, 2:43:30 PM
     Author     : JMwash
 --%>
 
@@ -12,7 +12,7 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 
 <div class="container text-center white_shadow">
-    <h1 class="page_title ">Events</h1>
+    <h1 class="page_title ">Volunteer</h1>
 
     <div class="row">
         <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
@@ -33,7 +33,7 @@
             <div class="col-md-12 col-sm-12 " >
                 <div class="col-md-9 col-sm-9">
                     <div class="col-md-12 col-sm-12">
-                        <h3>Events Gallery</h3>
+                        <h3>Volunteer Form</h3>
                         <hr>
                         <div class="row">
                         </div>
@@ -41,7 +41,7 @@
                 </div>
                 <div class="col-md-3 col-sm-3">
                     <div class="col-md-12 col-sm-12">
-                        <h3>Upcoming Events</h3>
+                        <h3>Volunteer For:</h3>
                         <hr>
                         <div class="panel-body">
 
@@ -52,4 +52,5 @@
         </div>
     </div>
 </div>
+
 

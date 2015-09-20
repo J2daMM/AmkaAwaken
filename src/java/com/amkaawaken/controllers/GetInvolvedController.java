@@ -24,10 +24,10 @@ public class GetInvolvedController {
         return new ModelAndView("com.amkaawaken.involved");
     }
     
-    @RequestMapping(value = "/getting_involved.htm", method = RequestMethod.GET)
-    public ModelAndView getting_involved()
+    @RequestMapping(value = "/events.htm", method = RequestMethod.GET)
+    public ModelAndView events()
     {
-        return new ModelAndView("com.amkaawaken.getting_involved");
+        return new ModelAndView("com.amkaawaken.events");
     }
     
 }

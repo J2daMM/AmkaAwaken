@@ -40,12 +40,10 @@
                                 <h4 class="timeline-title">Choose a Project and Make a Donation:</h4>
                             </div>
                             <div class="timeline-body">
-                                <p>After making a project(s) choice, donations can be made once or on a given number of frequencies. Please chose the preferred donation method below.. </p>
+                                <p>After making a project(s) choice, donations can be made once or on a given number of frequencies. Please follow the link below to chose the preferred donation method. Thanks</p>
                                 <hr>
                                 <div class="profile-userbuttons">
-                                    <a href="#" class="btn btn-primary btn-sm" role="button">Credit Card</a>
-                                    <a href="#" class="btn btn-primary btn-sm" role="button">PayPal</a>
-                                    <a href="#" class="btn btn-primary btn-sm" role="button">Donate Resources</a>
+                                    <a href="donate.htm" class="btn btn-primary btn-sm" role="button">Donate</a>
                                 </div>
                             </div>
                         </div>
@@ -54,15 +52,13 @@
                         <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="timeline-title">Volunteer yourself for Project(s):</h4>
+                                <h4 class="timeline-title">Volunteer yourself for:</h4>
                             </div>
                             <div class="timeline-body">
-                                <p>After making a project(s) choice, being a volunteer and donating your time will be highly appreciated. Please chose how what you'd like to volunteer for below.. </p>
+                                <p>Being a volunteer and donating your time is highly appreciated an honor to get to share the time and experience with you. Please follow the link below to volunteer. Thanks. </p>
                                 <hr>
                                 <div class="profile-userbuttons">
-                                    <a href="#" class="btn btn-primary btn-sm" role="button">Project(s)</a>
-                                    <a href="#" class="btn btn-primary btn-sm" role="button">Event(s)</a>
-                                    <a href="#" class="btn btn-primary btn-sm" role="button">Resource Drive</a>
+                                    <a href="volunteer.htm" class="btn btn-primary btn-sm" role="button">Volunteer</a>
                                 </div>
                             </div>
                         </div>
@@ -71,15 +67,13 @@
                         <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="timeline-title">Organize an event, a campaign or Resources Drive:</h4>
+                                <h4 class="timeline-title">Organize a project, an event, a campaign or Resources Drive:</h4>
                             </div>
                             <div class="timeline-body">
-                                <p>After making a project(s) choice, donations can be made once or on a given number of frequencies. Please chose the preferred donation method below.. </p>
+                                <p>Events,campaigns, resource drive etc can help with drive and raise donations. Please follow the link below to organize a function to help with donations. Thanks. </p>
                                 <hr>
                                 <div class="profile-userbuttons">
-                                    <a href="#" class="btn btn-primary btn-sm" role="button">Project(s)</a>
-                                    <a href="#" class="btn btn-primary btn-sm" role="button">Event(s)</a>
-                                    <a href="#" class="btn btn-primary btn-sm" role="button">Resource Drive</a>
+                                    <a href="organize.htm" class="btn btn-primary btn-sm" role="button">Organize</a>
                                 </div>
                             </div>
                         </div>
@@ -91,10 +85,10 @@
                                 <h4 class="timeline-title">Become a Project(s) Sponsor:</h4>
                             </div>
                             <div class="timeline-body">
-                                <p>After making a project(s) choice, donations can be made once or on a given number of frequencies. Please chose the preferred donation method below.. </p>
+                                <p>Sponsors are a blessing to our organization as they help with attaining our goals and mission . Please follow the link below to become a Sponsor. Thanks.  </p>
                                 <hr>
                                 <div class="profile-userbuttons">
-                                    <a href="#" class="btn btn-primary btn-sm" role="button">Become A Sponsor</a>
+                                    <a href="signup.htm" class="btn btn-primary btn-sm" role="button">Become A Sponsor</a>
                                 </div>
                             </div>
                         </div>

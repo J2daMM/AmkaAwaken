@@ -12,23 +12,22 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 
 <div class="container text-center white_shadow">
-    <h1 class="page_title ">Sign In</h1>
+    <h1 class="page_title ">Sponsor Sign In</h1>
 
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-            <hr>
-        </div>
+    <div class="col-md-12 col-sm-12 ">
+        <hr>
     </div>
+
     <div class="row">
         <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
             <div class="col-md-offset-1 col-sm-10 col-md-10">
                 <div class="omb_login">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <div class="panel-title">Sign In</div>
+                            <div class="panel-title">Sponsor Sign In</div>
                             <div class=" pull-right">
-                                       <a id="signinlink" href="signup.htm" onclick="$('#signupbox').hide();
-                                    $('#signupbox').show()">Sign Up</a>
+                                <a id="signinlink" href="signup.htm" onclick="$('#signupbox').hide();
+                                               $('#signupbox').show()">Sponsor Sign Up</a>
                             </div>
                         </div>  
                         <div class="panel-body" >
@@ -77,8 +76,8 @@
                                             </div>
                                         </div>
 
-                                        <a href="sponsors_profile.htm" class="btn btn-primary" title="Enlace">Sign In</a>
-<!--                                        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign In</button>-->
+                                        <a href="sponsors_profile.htm" class="btn btn-primary" title="Enlace">Sponsor Sign In</a>
+                                        <!--                                        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign In</button>-->
                                     </form>
                                 </div>
                             </div>

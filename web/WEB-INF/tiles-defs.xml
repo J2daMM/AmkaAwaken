@@ -73,9 +73,9 @@
         <put-attribute name="content" value="/Pages/involved.jsp" />
     </definition>
     
-    <definition name="com.amkaawaken.getting_involved" extends="mainLayout">
-        <put-attribute name="title" value="AmkaAwaken | Getting Involved" />
-        <put-attribute name="content" value="/Pages/getting_involved.jsp" />
+    <definition name="com.amkaawaken.events" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Events" />
+        <put-attribute name="content" value="/Pages/events.jsp" />
     </definition>
     
     <definition name="com.amkaawaken.goals" extends="mainLayout">

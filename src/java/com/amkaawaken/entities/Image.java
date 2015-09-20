@@ -41,6 +41,11 @@ import javax.xml.bind.annotation.XmlTransient;
     @NamedQuery(name = "Image.findByDate", query = "SELECT i FROM Image i WHERE i.date = :date"),
     @NamedQuery(name = "Image.findByLocation", query = "SELECT i FROM Image i WHERE i.location = :location")})
 public class Image implements Serializable {
+    @Basic(optional = false)
+    @NotNull
+    @Lob
+    @Column(name = "data")
+    private byte[] data;
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -65,11 +70,6 @@ public class Image implements Serializable {
     @Size(max = 45)
     @Column(name = "location")
     private String location;
-    @Basic(optional = false)
-    @NotNull
-    @Lob
-    @Column(name = "data")
-    private byte[] data;
     @ManyToMany(mappedBy = "imageCollection")
     private Collection<Album> albumCollection;
 
@@ -128,13 +128,6 @@ public class Image implements Serializable {
         this.location = location;
     }
 
-    public byte[] getData() {
-        return data;
-    }
-
-    public void setData(byte[] data) {
-        this.data = data;
-    }
 
     @XmlTransient
     public Collection<Album> getAlbumCollection() {
@@ -168,6 +161,14 @@ public class Image implements Serializable {
     @Override
     public String toString() {
         return "com.amkaawaken.entities.Image[ id=" + id + " ]";
+    }
+
+    public byte[] getData() {
+        return data;
+    }
+
+    public void setData(byte[] data) {
+        this.data = data;
     }
     
 }

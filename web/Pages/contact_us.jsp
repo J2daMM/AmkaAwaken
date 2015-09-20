@@ -17,7 +17,7 @@
 
     <div class="row">
         <div class="col-md-12" >
-            <h2>Meet <span class="text-muted">us</span></h2>
+            <h2>Touch base with <span class="text-muted">us</span></h2>
         </div>
 
         <div class="col-md-12 col-sm-12">
@@ -26,8 +26,25 @@
 
         <div class="row">
             <div class="col-md-12 col-sm-12 ">
-                <div class="col-md-12 col-sm-12 ">
+                <div class="col-md-6 col-sm-6 ">
+                    <h2>Email: </br> <span class="text-muted"> contact@amkaawaken.org</span> </h2>
+                    <h2>Phone: </br> <span class="text-muted"> +1(414)444-5555</span> </h2>
+                    <h2>Fax: </br>  <span class="text-muted">+1(972)849-7842</span></h2>
 
+
+                    <hr>
+
+
+                    <h2>Follow <span class="text-muted">us</span></h2>
+
+                    <hr>
+
+                    <h2>Facebook: </br>  <span class="text-muted">facebook.com/amkaawaken</span></h2>
+                    <h2>Twitter: </br>  <span class="text-muted">twitter.com/amkaawaken</span></h2>
+                </div>
+
+                <div class="col-md-6 col-sm-6 ">
+                    <h3>Or.. Drop us a note below..</h3>
                     <c:if test="${!empty success_message}">
                         <div class="alert alert-success">
                             <p><span class="glyphicon glyphicon-ok"></span> &nbsp;<c:out value="${success_message}" /></p>
@@ -60,29 +77,6 @@
                         <button class="btn btn-lg btn-primary btn-block" type="submit">Send message</button>
                     </form>
                 </div>   
-
-                <hr>
-
-                <div class="col-md-12 col-sm-12">
-                    <h2>Touch base with <span class="text-muted">us</span></h2>
-
-                    <hr>
-
-                    <h2>Email: </br> <span class="text-muted"> manager@amkaawaken.org</span> </h2>
-                    <h2>Phone: </br> <span class="text-muted"> +1(414)444-5555</span> </h2>
-                    <h2>Fax: </br>  <span class="text-muted">+1(972)849-7842</span></h2>
-
-                </div>
-                <hr>
-
-                <div class="col-md-12 col-sm-12">
-                    <h2>Follow <span class="text-muted">us</span></h2>
-
-                    <hr>
-
-                    <h2>Facebook: </br>  <span class="text-muted">facebook.com/amkaawaken</span></h2>
-                    <h2>Twitter: </br>  <span class="text-muted">twitter.com/amkaawaken</span></h2>
-                </div>
             </div>
         </div>
     </div>

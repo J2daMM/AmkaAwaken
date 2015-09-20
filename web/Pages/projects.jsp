@@ -38,7 +38,7 @@
                     <div class="col-md-12 col-sm-12">
                         <h2>New Projects</h2>
 
-                        <div class="item col-sm-4 col-md-4">
+                        <div class="item col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://unsplash.imgix.net/12/barley.jpg?q=75&fm=jpg&s=f39de5ca1970a13dbe6af6c86b3c47ec" />
@@ -52,17 +52,17 @@
                                 </div>
                                 <div class="panel-thumbnails">
                                     <div class="row">
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/mzwlj/60x60" />
                                             </div>
                                         </div>
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/yboaj/60x60" />
                                             </div>
                                         </div>
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/gv3bp/60x60" />
                                             </div>
@@ -71,7 +71,7 @@
                                 </div>
                             </div>   
                         </div>
-                        <div class="item  col-sm-4 col-md-4">
+                        <div class="item  col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://unsplash.imgix.net/41/bXoAlw8gT66vBo1wcFoO_IMG_9181.jpg?q=75&fm=jpg&s=a760fd82863937c841f4b3870cdef011" />
@@ -86,17 +86,17 @@
                                 </div>
                                 <div class="panel-thumbnails">
                                     <div class="row">
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/dstb9/60x60" />
                                             </div>
                                         </div>
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/2lsao/60x60" />
                                             </div>
                                         </div>
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/urcon/60x60" />
                                             </div>
@@ -105,7 +105,7 @@
                                 </div>
                             </div>   
                         </div>
-                        <div class="item col-sm-4 col-md-4">
+                        <div class="item col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://ununsplash.imgix.net/19/waves.JPG?q=75&fm=jpg&s=6f316bc8e1dc9887a7cebe0841096e99" />
@@ -120,17 +120,17 @@
                                 </div>
                                 <div class="panel-thumbnails">
                                     <div class="row">
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/7an8e/60x60" />
                                             </div>
                                         </div>
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/wntpb/60x60" />
                                             </div>
                                         </div>
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/jrzxa/60x60" />
                                             </div>
@@ -139,7 +139,7 @@
                                 </div>
                             </div>   
                         </div>
-                        <div class="item col-sm-4 col-md-4">
+                        <div class="item col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://ununsplash.imgix.net/26/camera-keys.jpg?q=75&fm=jpg&s=b919d3158053cde8e9f0e37b4876c14f" />
@@ -154,17 +154,17 @@
                                 </div>
                                 <div class="panel-thumbnails">
                                     <div class="row">
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/sqfuk/60x60" />
                                             </div>
                                         </div>
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/71mf8/60x60" />
                                             </div>
                                         </div>
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/1pdrw/60x60" />
                                             </div>
@@ -186,7 +186,7 @@
 
                     <div class="col-md-12 col-sm-12 ">
                         <h2>Ongoing Projects</h2>
-                        <div class="col-sm-4 col-md-4">
+                        <div class="col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://unsplash.imgix.net/12/barley.jpg?q=75&fm=jpg&s=f39de5ca1970a13dbe6af6c86b3c47ec" />
@@ -201,17 +201,17 @@
                                 </div>
                                 <div class="panel-thumbnails">
                                     <div class="row">
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/mzwlj/60x60" />
                                             </div>
                                         </div>
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/yboaj/60x60" />
                                             </div>
                                         </div>
-                                        <div class="col-xs-4">
+                                        <div class="col-xs-3">
                                             <div class="thumbnail">
                                                 <img src="http://placemi.com/gv3bp/60x60" />
                                             </div>
@@ -220,7 +220,7 @@
                                 </div>
                             </div>   
                         </div>
-                        <div class="col-sm-4 col-md-4">
+                        <div class="col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://unsplash.imgix.net/41/bXoAlw8gT66vBo1wcFoO_IMG_9181.jpg?q=75&fm=jpg&s=a760fd82863937c841f4b3870cdef011" />
@@ -254,7 +254,7 @@
                                 </div>
                             </div>   
                         </div>
-                        <div class="col-sm-4 col-md-4">
+                        <div class="col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://ununsplash.imgix.net/19/waves.JPG?q=75&fm=jpg&s=6f316bc8e1dc9887a7cebe0841096e99" />
@@ -288,7 +288,7 @@
                                 </div>
                             </div>   
                         </div>
-                        <div class="col-sm-4 col-md-4">
+                        <div class="col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://ununsplash.imgix.net/26/camera-keys.jpg?q=75&fm=jpg&s=b919d3158053cde8e9f0e37b4876c14f" />
@@ -334,7 +334,7 @@
 
                     <div class="col-md-12 col-sm-12 ">
                         <h2>Completed Projects</h2>
-                        <div class="col-sm-4 col-md-4">
+                        <div class="col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://unsplash.imgix.net/12/barley.jpg?q=75&fm=jpg&s=f39de5ca1970a13dbe6af6c86b3c47ec" />
@@ -368,7 +368,7 @@
                                 </div>
                             </div>   
                         </div>
-                        <div class="col-sm-4 col-md-4">
+                        <div class="col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://unsplash.imgix.net/41/bXoAlw8gT66vBo1wcFoO_IMG_9181.jpg?q=75&fm=jpg&s=a760fd82863937c841f4b3870cdef011" />
@@ -402,7 +402,7 @@
                                 </div>
                             </div>   
                         </div>
-                        <div class="col-sm-4 col-md-4">
+                        <div class="col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://ununsplash.imgix.net/19/waves.JPG?q=75&fm=jpg&s=6f316bc8e1dc9887a7cebe0841096e99" />
@@ -436,7 +436,7 @@
                                 </div>
                             </div>   
                         </div>
-                        <div class="col-sm-4 col-md-4">
+                        <div class="col-sm-3 col-md-3">
                             <div class="panel panel-default panel-card">
                                 <div class="panel-heading">
                                     <img src="https://ununsplash.imgix.net/26/camera-keys.jpg?q=75&fm=jpg&s=b919d3158053cde8e9f0e37b4876c14f" />

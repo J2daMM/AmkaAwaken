@@ -62,6 +62,11 @@
                                     <span class="glyphicon glyphicon-calendar"></span>
                                 </a>
                             </li>
+                            <li>
+                                <a data-toggle="tab" href="#settings">
+                                    <span class="glyphicon glyphicon-cog"></span>
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -71,62 +76,9 @@
                             <div id="information" class="tab-pane active">
                                 <h3>Information</h3>
                                 <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                                <div class="col-md-offset-1 col-sm-10 col-md-10">
-                                <form id="signupform" action="" class="form-horizontal" role="form">
+                                <div class="col-md-12 col-sm-12">
 
-                                    <div id="signupalert" style="display:none" class="alert alert-danger">
-                                        <p>Error:</p>
-                                        <span></span>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="email" class="col-md-3 control-label">Email:</label>
-                                        <div class="col-md-9">
-                                            <input type="text" class="form-control" name="email" placeholder="Email Address">
-                                        </div>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="firstname" class="col-md-3 control-label">First Name:</label>
-                                        <div class="col-md-9">
-                                            <input type="text" class="form-control" name="firstname" placeholder="First Name">
-                                        </div>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="lastname" class="col-md-3 control-label">Last Name:</label>
-                                        <div class="col-md-9">
-                                            <input type="text" class="form-control" name="lastname" placeholder="Last Name">
-                                        </div>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="password" class="col-md-3 control-label">Password:</label>
-                                        <div class="col-md-9">
-                                            <input type="password" class="form-control" name="passwd" placeholder="Password">
-                                        </div>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="password" class="col-md-3 control-label">Confirm Password:</label>
-                                        <div class="col-md-9">
-                                            <input type="password" class="form-control" name="passwd" placeholder="Password">
-                                        </div>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <label for="icode" class="col-md-3 control-label">Organization:</label>
-                                        <div class="col-md-9">
-                                            <input type="text" class="form-control" name="organization" placeholder="Organization">
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="form-group">
-                                        <label for="icode" class="col-md-3 control-label">Organization Position:</label>
-                                        <div class="col-md-9">
-                                            <input type="text" class="form-control" name="organizationposition" placeholder="Organization Position">
-                                        </div>
-                                    </div>
-
-                                    <button class="btn btn-lg btn-primary btn-block" type="submit">Edit/Submit Changes</button>
-                                </form>
-                            </div>
+                                </div>
                             </div>
                             <div id="gallery" class="tab-pane">
                                 <h3>Events Gallery</h3>
@@ -225,7 +177,7 @@
 
                                                     <!-- Multiple events in a single day (note the rowspan) -->
                                                     <tr>
-                                                        <td class="agenda-date" class="active" rowspan="3">
+                                                        <td class="agenda-date active" rowspan="3">
                                                             <div class="dayofmonth">24</div>
                                                             <div class="dayofweek">Thursday</div>
                                                             <div class="shortdate text-muted">July, 2014</div>
@@ -263,6 +215,42 @@
                                             </table>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                            <div id="settings" class="tab-pane">
+                                <h3>User Preferences/Settings</h3>
+                                <hr>
+                                <div class="col-md-12 col-sm-12">
+
+                                    <form id="signupform" action="" class="form-horizontal" role="form">
+                                        <div class="col-md-12 col-sm-12">
+                                            <h4>Update Password</h4>
+                                            <!--                                            <div id="signupalert" style="display:none" class="alert alert-danger">
+                                                                                            <p>Error:</p>
+                                                                                            <span></span>
+                                                                                        </div>-->
+
+                                            <div class="form-group">
+                                                <label for="password" class="col-md-3 control-label">Password:</label>
+                                                <div class="col-md-3">
+                                                    <input type="password" class="form-control" name="passwd" placeholder="Password">
+                                                </div>
+
+                                                <label for="password" class="col-md-3 control-label">Confirm Password:</label>
+                                                <div class="col-md-3">
+                                                    <input type="password" class="form-control" name="passwd" placeholder="Password">
+                                                </div>
+                                            </div>
+                                            <hr>
+                                        </div>
+
+                                        <button class="btn btn-lg btn-primary btn-block" type="submit">Edit/Update Preferences</button>
+                                    </form>
+
+                                    <div class="col-md-6 col-sm-6"></div>
+
+
+
                                 </div>
                             </div>
                         </div>

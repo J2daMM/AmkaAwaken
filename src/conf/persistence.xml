@@ -3,8 +3,15 @@
   <persistence-unit name="AmkaAwakenPU" transaction-type="RESOURCE_LOCAL">
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <class>com.amkaawaken.entities.Image</class>
-    <class>com.amkaawaken.entities.News</class>
     <class>com.amkaawaken.entities.Album</class>
+    <class>com.amkaawaken.entities.Address</class>
+    <class>com.amkaawaken.entities.Roles</class>
+    <class>com.amkaawaken.entities.ProfileOrganization</class>
+    <class>com.amkaawaken.entities.Organization</class>
+    <class>com.amkaawaken.entities.Location</class>
+    <class>com.amkaawaken.entities.Profile</class>
+    <class>com.amkaawaken.entities.Project</class>
+    <class>com.amkaawaken.entities.Users</class>
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/amka_awaken?zeroDateTimeBehavior=convertToNull"/>
