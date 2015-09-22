@@ -1,6 +1,6 @@
 <%-- 
-    Document   : volunteer
-    Created on : Sep 19, 2015, 2:43:30 PM
+    Document   : organize
+    Created on : Sep 21, 2015, 8:40:22 PM
     Author     : JMwash
 --%>
 
@@ -12,7 +12,7 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 
 <div class="container text-center white_shadow">
-    <h1 class="page_title ">Volunteer</h1>
+    <h1 class="page_title ">Organize</h1>
 
     <div class="row">
         <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
@@ -22,7 +22,7 @@
 
     <div class="row">
         <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-            <h2>'We relish news of our heroes, forgetting that we are<span class="text-muted"> extraordinary to somebody too.' - Helen Hayes.</span></h2>
+            <h2>'A project, an event, a campaign or Resources Drive..<span class="text-muted"> here are endless opportunities to get involved.</span></h2>
         </div>
 
         <div class="col-md-12 col-sm-12 ">
@@ -33,7 +33,7 @@
             <div class="col-md-12 col-sm-12 " >
                 <div class="col-md-9 col-sm-9">
                     <div class="col-md-12 col-sm-12">
-                        <h3>Volunteer Form</h3>
+                        <h3>Organizer Form</h3>
                         <hr>
                         <div class="row">
                         </div>
@@ -41,7 +41,7 @@
                 </div>
                 <div class="col-md-3 col-sm-3">
                     <div class="col-md-12 col-sm-12">
-                        <h3>Volunteer Info:</h3>
+                        <h3>Organizer Info:</h3>
                         <hr>
                         <div class="panel-body">
 
@@ -49,8 +49,5 @@
                     </div>
                 </div>
             </div>
-        </div>
     </div>
 </div>
-
-

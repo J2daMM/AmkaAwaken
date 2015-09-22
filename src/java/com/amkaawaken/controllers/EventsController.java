@@ -17,10 +17,15 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class EventsController {
     
-    @RequestMapping(value = "/gallery.htm", method = RequestMethod.GET)
-    public ModelAndView gallery()
+    @RequestMapping(value = "/events.htm", method = RequestMethod.GET)
+    public ModelAndView events()
     {
-        return new ModelAndView("com.amkaawaken.gallery");
+        return new ModelAndView("com.amkaawaken.events");
     }
     
+    @RequestMapping(value = "/events_details.htm", method = RequestMethod.GET)
+    public ModelAndView events_details()
+    {
+        return new ModelAndView("com.amkaawaken.events_details");
+    }
 }

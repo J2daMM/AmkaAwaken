@@ -14,9 +14,9 @@
             <div class="col-md-4 col-sm-4 ">
                 <h4> Get Involved </h4>
                 <ul>
-                    <li> <a href="#"> Donate </a> </li>
-                    <li> <a href="#"> Organize </a> </li>
-                    <li> <a href="#"> Volunteer </a> </li>
+                    <li> <a href="donate.htm"> Donate </a> </li>
+                    <li> <a href="organize.htm"> Organize </a> </li>
+                    <li> <a href="volunteer.htm"> Volunteer </a> </li>
                 </ul>
             </div>
             <div class="col-md-4 col-sm-4 ">
@@ -31,7 +31,7 @@
                 <h4> Us In a nutshell </h4>
                 <ul>
                     <li> <a href="projects.htm"> Our Projects </a> </li>
-                    <li> <a href="our_sponsorship_details"> Current Progress </a> </li>
+                    <li> <a href="our_sponsorship_details.htm"> Current Progress </a> </li>
                     <li> <a href="events.htm"> Events </a> </li>
                 </ul>
             </div>

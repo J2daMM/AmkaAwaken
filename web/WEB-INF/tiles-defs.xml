@@ -73,9 +73,24 @@
         <put-attribute name="content" value="/Pages/involved.jsp" />
     </definition>
     
+    <definition name="com.amkaawaken.organize" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Organize" />
+        <put-attribute name="content" value="/Pages/organize.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.volunteer" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Volunteer" />
+        <put-attribute name="content" value="/Pages/volunteer.jsp" />
+    </definition>
+    
     <definition name="com.amkaawaken.events" extends="mainLayout">
         <put-attribute name="title" value="AmkaAwaken | Events" />
         <put-attribute name="content" value="/Pages/events.jsp" />
+    </definition>
+    
+    <definition name="com.amkaawaken.events_details" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Events Details" />
+        <put-attribute name="content" value="/Pages/events_details.jsp" />
     </definition>
     
     <definition name="com.amkaawaken.goals" extends="mainLayout">
