@@ -42,6 +42,9 @@
                 </div>
                 
                 <div class="col-md-6 col-sm-6">
+
+                </div>
+                <div class="col-md-6 col-sm-6">
                     <div class="col-md-12 col-sm-12 " >
                         <div class="col-md-4 col-sm-4 col-xs-6">
                             <div id="tile1" class="tile">
@@ -230,10 +233,9 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-md-6 col-sm-6">
 
             </div>
+
         </div>
     </div>
 </div>
