@@ -14,16 +14,16 @@
 <div class="container text-center white_shadow">
     <h1 class="page_title ">Events</h1>
 
-    <div class="row">
+<!--    <div class="row">
         <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
             <hr>
         </div>
-    </div>
+    </div>-->
 
     <div class="row">
-        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+<!--        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
             <h2>'We relish news of our heroes, forgetting that we are<span class="text-muted"> extraordinary to somebody too.' - Helen Hayes.</span></h2>
-        </div>
+        </div>-->
 
         <div class="col-md-12 col-sm-12 ">
             <hr>
@@ -53,7 +53,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/weather.png" class="img-responsive">
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -70,7 +70,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/skype.png" class="img-responsive">
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -87,7 +87,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/music2.png" class="img-responsive">
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -104,7 +104,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/music.png" class="img-responsive">
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -121,7 +121,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/hot3.png" class="img-responsive">
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -138,7 +138,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/skype.png" class="img-responsive">
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -155,7 +155,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/calendar.png" class="img-responsive"/>
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -172,7 +172,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/weather2.png" class="img-responsive"/>
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -189,7 +189,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/music.png" class="img-responsive">
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -206,7 +206,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/skype.png" class="img-responsive">
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -223,7 +223,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/music2.png" class="img-responsive">
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -240,7 +240,7 @@
                                             <p><i class="icon icon-map-marker"></i> Nakuru, Kenya</p>
                                         </div>
                                         <div style="padding:4px">
-                                            <img alt="300x200" style="width: 100%" src="http://placehold.it/200x150">
+                                            <img src="http://handsontek.net/demoimages/tiles/hot.png" class="img-responsive">
                                         </div>
                                         <div class="modal-footer" style="text-align: left">
                                             <div class="row-fluid">
@@ -257,4 +257,5 @@
             </div>
         </div>
     </div>
+</div>
 
