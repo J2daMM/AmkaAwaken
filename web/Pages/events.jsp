@@ -14,16 +14,16 @@
 <div class="container text-center white_shadow">
     <h1 class="page_title ">Events</h1>
 
-<!--    <div class="row">
-        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-            <hr>
-        </div>
-    </div>-->
+    <!--    <div class="row">
+            <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+                <hr>
+            </div>
+        </div>-->
 
     <div class="row">
-<!--        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-            <h2>'We relish news of our heroes, forgetting that we are<span class="text-muted"> extraordinary to somebody too.' - Helen Hayes.</span></h2>
-        </div>-->
+        <!--        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+                    <h2>'We relish news of our heroes, forgetting that we are<span class="text-muted"> extraordinary to somebody too.' - Helen Hayes.</span></h2>
+                </div>-->
 
         <div class="col-md-12 col-sm-12 ">
             <hr>
@@ -251,6 +251,25 @@
                                     </div>
                                 </li>
                             </ul>
+                            <nav>
+                                <ul class="pagination">
+                                    <li>
+                                        <a href="#" aria-label="Previous">
+                                            <span aria-hidden="true">&laquo;</span>
+                                        </a>
+                                    </li>
+                                    <li><a href="#">1</a></li>
+                                    <li><a href="#">2</a></li>
+                                    <li><a href="#">3</a></li>
+                                    <li><a href="#">4</a></li>
+                                    <li><a href="#">5</a></li>
+                                    <li>
+                                        <a href="#" aria-label="Next">
+                                            <span aria-hidden="true">&raquo;</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </nav>
                         </div>
                     </div>
                 </div>
