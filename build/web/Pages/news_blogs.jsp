@@ -25,7 +25,7 @@
             <h2>'We relish news of our heroes, forgetting that we are<span class="text-muted"> extraordinary to somebody too.' - Helen Hayes.</span></h2>
         </div>
 
-        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+        <div class="col-md-12 col-sm-12 ">
             <hr>
         </div>
 
@@ -60,172 +60,170 @@
                                 </small>
                             </div>
                         </div>
+
                         <hr>
-                        <div class="row ">
-                            <div class="col-md-12  col-sm-12">
-                                <ul>
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem </p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
+
+                        <div class="row">
+                            <ul>
+                                <li class="col-sm-3">
+                                    <div class="fff">
+                                        <div class="thumbnail">
+                                            <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
                                         </div>
-                                    </li>
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
+                                        <div class="caption">
+                                            <h4>Praesent commodo</h4>
+                                            <p>Nullam Condimentum Nibh Etiam Sem </p>
+                                            <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
-                                    </li>
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
+                                    </div>
+                                </li>
+                                <li class="col-sm-3">
+                                    <div class="fff">
+                                        <div class="thumbnail">
+                                            <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
                                         </div>
-                                    </li>
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
+                                        <div class="caption">
+                                            <h4>Praesent commodo</h4>
+                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
-                                    </li>
-                                </ul>
-                            </div>
+                                    </div>
+                                </li>
+                                <li class="col-sm-3">
+                                    <div class="fff">
+                                        <div class="thumbnail">
+                                            <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                        </div>
+                                        <div class="caption">
+                                            <h4>Praesent commodo</h4>
+                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <a class="btn btn-mini" href="#">» Read More</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="col-sm-3">
+                                    <div class="fff">
+                                        <div class="thumbnail">
+                                            <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                        </div>
+                                        <div class="caption">
+                                            <h4>Praesent commodo</h4>
+                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <a class="btn btn-mini" href="#">» Read More</a>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
                         </div>
                         <hr>
                         <div class="row ">
-                            <div class="col-md-12 ">
-                                <ul class="thumbnails">
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
+                            <ul class="thumbnails">
+                                <li class="col-sm-3">
+                                    <div class="fff">
+                                        <div class="thumbnail">
+                                            <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
                                         </div>
-                                    </li>
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
+                                        <div class="caption">
+                                            <h4>Praesent commodo</h4>
+                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
-                                    </li>
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
+                                    </div>
+                                </li>
+                                <li class="col-sm-3">
+                                    <div class="fff">
+                                        <div class="thumbnail">
+                                            <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
                                         </div>
-                                    </li>
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
+                                        <div class="caption">
+                                            <h4>Praesent commodo</h4>
+                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
-                                    </li>
-                                </ul>
-                            </div>
+                                    </div>
+                                </li>
+                                <li class="col-sm-3">
+                                    <div class="fff">
+                                        <div class="thumbnail">
+                                            <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                        </div>
+                                        <div class="caption">
+                                            <h4>Praesent commodo</h4>
+                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <a class="btn btn-mini" href="#">» Read More</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="col-sm-3">
+                                    <div class="fff">
+                                        <div class="thumbnail">
+                                            <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                        </div>
+                                        <div class="caption">
+                                            <h4>Praesent commodo</h4>
+                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <a class="btn btn-mini" href="#">» Read More</a>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
                         </div>
                         <hr>
-                        <div class="row ">
-                            <div class="col-md-12 ">
-                                <ul class="thumbnails">
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="col-sm-3">
-                                        <div class="fff">
-                                            <div class="thumbnail">
-                                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
-                                            </div>
-                                            <div class="caption">
-                                                <h4>Praesent commodo</h4>
-                                                <p>Nullam Condimentum Nibh Etiam Sem</p>
-                                                <a class="btn btn-mini" href="#">» Read More</a>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <hr>
+                        <!--                        <div class="row ">
+                                                    <div class="col-md-12 ">
+                                                        <ul class="thumbnails">
+                                                            <li class="col-sm-3">
+                                                                <div class="fff">
+                                                                    <div class="thumbnail">
+                                                                        <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                                                    </div>
+                                                                    <div class="caption">
+                                                                        <h4>Praesent commodo</h4>
+                                                                        <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                                        <a class="btn btn-mini" href="#">» Read More</a>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li class="col-sm-3">
+                                                                <div class="fff">
+                                                                    <div class="thumbnail">
+                                                                        <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                                                    </div>
+                                                                    <div class="caption">
+                                                                        <h4>Praesent commodo</h4>
+                                                                        <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                                        <a class="btn btn-mini" href="#">» Read More</a>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li class="col-sm-3">
+                                                                <div class="fff">
+                                                                    <div class="thumbnail">
+                                                                        <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                                                    </div>
+                                                                    <div class="caption">
+                                                                        <h4>Praesent commodo</h4>
+                                                                        <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                                        <a class="btn btn-mini" href="#">» Read More</a>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li class="col-sm-3">
+                                                                <div class="fff">
+                                                                    <div class="thumbnail">
+                                                                        <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                                                                    </div>
+                                                                    <div class="caption">
+                                                                        <h4>Praesent commodo</h4>
+                                                                        <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                                                        <a class="btn btn-mini" href="#">» Read More</a>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <hr>-->
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3">

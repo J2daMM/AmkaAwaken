@@ -12,12 +12,10 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 
 <div class="container text-center white_shadow">
-    <h1 class="page_title ">Sign Up</h1>
+    <h1 class="page_title ">Sponsor Sign Up</h1>
 
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-            <hr>
-        </div>
+    <div class="col-md-12 col-sm-12 ">
+        <hr>
     </div>
 
     <div class="row">
@@ -26,10 +24,10 @@
                 <div class="omb_login">
                    <div class="panel panel-default">
                         <div class="panel-heading">
-                            <div class="panel-title">Sign Up</div>
+                            <div class="panel-title">Sponsor Sign Up</div>
                             <div class=" pull-right">
                                        <a id="signinlink" href="signin.htm" onclick="$('#signinbox').hide();
-                                    $('#signinbox').show()">Sign In</a>
+                                    $('#signinbox').show()">Sponsor Sign In</a>
                             </div>
                         </div>   
                         <div class="panel-body" >
@@ -64,52 +62,52 @@
                                         <span></span>
                                     </div>
                                     <div class="form-group">
-                                        <label for="email" class="col-md-3 control-label">Email:</label>
-                                        <div class="col-md-9">
+                                        <label for="email" class="col-md-4 control-label">Email:</label>
+                                        <div class="col-md-8">
                                             <input type="text" class="form-control" name="email" placeholder="Email Address">
                                         </div>
                                     </div>
 
                                     <div class="form-group">
-                                        <label for="firstname" class="col-md-3 control-label">First Name:</label>
-                                        <div class="col-md-9">
+                                        <label for="firstname" class="col-md-4 control-label">First Name:</label>
+                                        <div class="col-md-8">
                                             <input type="text" class="form-control" name="firstname" placeholder="First Name">
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label for="lastname" class="col-md-3 control-label">Last Name:</label>
-                                        <div class="col-md-9">
+                                        <label for="lastname" class="col-md-4 control-label">Last Name:</label>
+                                        <div class="col-md-8">
                                             <input type="text" class="form-control" name="lastname" placeholder="Last Name">
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label for="password" class="col-md-3 control-label">Password:</label>
-                                        <div class="col-md-9">
+                                        <label for="password" class="col-md-4 control-label">Password:</label>
+                                        <div class="col-md-8">
                                             <input type="password" class="form-control" name="passwd" placeholder="Password">
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label for="password" class="col-md-3 control-label">Confirm Password:</label>
-                                        <div class="col-md-9">
+                                        <label for="password" class="col-md-4 control-label">Confirm Password:</label>
+                                        <div class="col-md-8">
                                             <input type="password" class="form-control" name="passwd" placeholder="Password">
                                         </div>
                                     </div>
 
                                     <div class="form-group">
-                                        <label for="icode" class="col-md-3 control-label">Organization:</label>
-                                        <div class="col-md-9">
+                                        <label for="icode" class="col-md-4 control-label">Organization:</label>
+                                        <div class="col-md-8">
                                             <input type="text" class="form-control" name="organization" placeholder="Organization">
                                         </div>
                                     </div>
                                     
                                     <div class="form-group">
-                                        <label for="icode" class="col-md-3 control-label">Organization Position:</label>
-                                        <div class="col-md-9">
-                                            <input type="text" class="form-control" name="organizationposition" placeholder="Organization Position">
+                                        <label for="icode" class="col-md-4 control-label">Organization Profile:(Admin / Member)</label>
+                                        <div class="col-md-8">
+                                            <input type="text" class="form-control" name="organizationposition" placeholder="Organization Profile">
                                         </div>
                                     </div>
 
-                                    <button class="btn btn-lg btn-primary btn-block" type="submit">Sign Up</button>
+                                    <button class="btn btn-lg btn-primary btn-block" type="submit">Sponsor Sign Up</button>
                                 </form>
                             </div>
                         </div>

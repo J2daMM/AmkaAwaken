@@ -22,16 +22,24 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="index.htm"><span class="glyphicon glyphicon-home"></span>&nbsp; Home</a></li>
                         <li><a href="donate.htm"><span class="glyphicon glyphicon-info-sign"></span>&nbsp; DONATE</a></li>
-                        <li><a href="involved.htm"><span class="glyphicon glyphicon-folder-open"></span>&nbsp; Get Involved</a> </li>
-                        <li><a href="projects.htm"><span class="glyphicon glyphicon-folder-open"></span>&nbsp; Projects</a> </li>
-<!--                        <li class="dropdown">
+                        <li class="dropdown">
                             
                             <a href="involved.htm" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open">&nbsp;</span>&nbsp; Get Involved <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="involved.htm">Get Involved</a> </li>
-                                                                <li><a href="events.htm">Photo Gallery</a></li>
+                                <li><a href="events.htm">Events</a></li>
                             </ul>
                         </li>
+                        <li class="dropdown">
+                            
+                            <a href="projects.htm" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open">&nbsp;</span>&nbsp; Projects <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="projects.htm">Projects</a> </li>
+                                <li><a href="news_blogs.htm">News</a></li>
+                            </ul>
+                        </li>
+ <!--                       <li><a href="projects.htm"><span class="glyphicon glyphicon-folder-open"></span>&nbsp; Projects</a> </li>
+                       
                         <li class="dropdown">
                             <a href="involved.htm" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open">&nbsp;</span>&nbsp; Projects <b class="caret"></b></a>
                             <ul class="dropdown-menu">
@@ -46,7 +54,7 @@
                             <ul class="dropdown-menu">
                                 <li><a href="about_us.htm">About Us</a></li>
                                 <li><a href="contact_us.htm">Contact Us</a></li>
-                                <li><a href="news_blogs.htm">News</a></li>
+                                
                             </ul>
                         </li>
 

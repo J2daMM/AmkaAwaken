@@ -32,19 +32,50 @@
         <div class="row" >
             <div class="col-md-12 col-sm-12 " >
                 <div class="col-md-3 col-sm-3">
-                    <div class="col-md-12 col-sm-12">
+                    <div class="panel panel-default">
                         <h3>Upcoming Events</h3>
                         <hr>
                         <div class="panel-body">
-
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12">
+                                    <ul class="event-list">
+                                        <li>
+                                            <time datetime="2014-07-20">
+                                                <span class="day">4</span>
+                                                <span class="month">Jul</span>
+                                                <span class="year">2014</span>
+                                                <span class="time">ALL DAY</span>
+                                            </time>
+                                            <img alt="Independence Day" src="https://farm4.staticflickr.com/3100/2693171833_3545fb852c_q.jpg" />
+                                            <div class="info">
+                                                <h2 class="title">Independence Day</h2>
+                                                <p class="desc">United States Holiday</p>
+                                            </div>
+                                            <div class="social">
+                                                <ul>
+                                                    <li class="facebook" style="width:33%;"><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                                                    <li class="twitter" style="width:34%;"><a href="#twitter"><span class="fa fa-twitter"></span></a></li>
+                                                    <li class="google-plus" style="width:33%;"><a href="#google-plus"><span class="fa fa-google-plus"></span></a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    <div class="col-md-12 col-sm-12">
-                        <h3>Past Events Gallery</h3>
+                    <div class="panel panel-default">
+                        <h3>Past Events Photo Gallery</h3>
+                        <!--                        <div class="panel-title"><h3>Past Events Photo Gallery</h3>
+                                                    <div class=" pull-right">
+                                                        <a id="signinlink" href="signup.htm" onclick="$('#signupbox').hide();
+                                                                $('#signupbox').show()">Past Events Video Gallery</a>
+                                                    </div>
+                                                </div>-->
                         <hr>
-                        <div class="row">
+                        <div class="panel-body">
                             <ul class="thumbnails">
                                 <li class="col-md-3 col-sm-3">
                                     <div class="thumbnail" style="padding: 0">
