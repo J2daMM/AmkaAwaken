@@ -32,8 +32,10 @@
         <script src="Resources/Scripts/Bootstrap/bootstrap.min.js"></script>
         <script src="Resources/Scripts/Bootstrap/docs.min.js"></script>
         <script src="Resources/Scripts/rating.js"></script>
+        <script src='Resources/Scripts/moment.min.js'></script>
+        <script src='Resources/Scripts/Fullcalendar/fullcalendar.js'></script>
 
-        <!-- Just for debugging purposes. Don't actually copy this line! -->
+        <!-- Just for debugging purposes. -->
         <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -45,21 +47,22 @@
 
 
         <script>
-            $(document).ready(function() {
+            $(document).ready(function () {
+                //initialize the calendar...
+                $('#calendar').fullCalendar({
+                    // put your options and callbacks here
+                    height: "auto",
+                    dayClick: function (date, jsEvent, view) {
+                        //alert('a day has been clicked!');
+                        alert('Clicked on: ' + date.format());
 
+                        // change the day's background color just for fun
+                        //$(this).css('background-color', 'red');
+                    }
+                })
             });
         </script>
 
-<!--        <script type="text/javascript">
-            function checkconnection() {
-                var status = navigator.onLine;
-                if (status) {
-                    alert("online");
-                } else {
-                    alert("offline");
-                }
-            }
-        </script>-->
     </head>
     <body>
         <div id="header">
@@ -70,9 +73,6 @@
         </div>
         <div id="footer">
             <tiles:insertAttribute name="footer" />
-<!--            <div>
-                <input type="button" value="Check Connection" onclick="checkconnection()" />
-            </div>-->
         </div>
 
 

@@ -12,18 +12,18 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 
 <div class="container text-center white_shadow">
-    <h1 class="page_title ">News / Blogs</h1>
+    <h1>News / Blogs</h1>
 
-    <div class="row">
+<!--    <div class="row">
         <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
             <hr>
         </div>
-    </div>
+    </div>-->
 
     <div class="row">
-        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+<!--        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
             <h2>'We relish news of our heroes, forgetting that we are<span class="text-muted"> extraordinary to somebody too.' - Helen Hayes.</span></h2>
-        </div>
+        </div>-->
 
         <div class="col-md-12 col-sm-12 ">
             <hr>
@@ -45,13 +45,13 @@
                                 <div class="header">
                                     <strong class="primary-font">News Heading</strong> 
                                 </div>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
+                                <p align="left">
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                                    when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                                    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+                                    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+                                    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
                                 </p>
                                 <small class="text-muted">
                                     <span class="glyphicon glyphicon-time"></span>12/12/2013
@@ -72,7 +72,10 @@
                                         </div>
                                         <div class="caption">
                                             <h4>Praesent commodo</h4>
-                                            <p>Nullam Condimentum Nibh Etiam Sem </p>
+                                            <p align="left">
+                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                                            </p>
                                             <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
                                     </div>
@@ -84,7 +87,10 @@
                                         </div>
                                         <div class="caption">
                                             <h4>Praesent commodo</h4>
-                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <p align="left">
+                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                                            </p>
                                             <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
                                     </div>
@@ -96,7 +102,10 @@
                                         </div>
                                         <div class="caption">
                                             <h4>Praesent commodo</h4>
-                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <p align="left">
+                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                                            </p>
                                             <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
                                     </div>
@@ -108,7 +117,10 @@
                                         </div>
                                         <div class="caption">
                                             <h4>Praesent commodo</h4>
-                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <p align="left">
+                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                                            </p>
                                             <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
                                     </div>
@@ -125,7 +137,10 @@
                                         </div>
                                         <div class="caption">
                                             <h4>Praesent commodo</h4>
-                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <p align="left">
+                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                                            </p>
                                             <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
                                     </div>
@@ -137,7 +152,10 @@
                                         </div>
                                         <div class="caption">
                                             <h4>Praesent commodo</h4>
-                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <p align="left">
+                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                                            </p>
                                             <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
                                     </div>
@@ -149,7 +167,10 @@
                                         </div>
                                         <div class="caption">
                                             <h4>Praesent commodo</h4>
-                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <p align="left">
+                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                                            </p>
                                             <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
                                     </div>
@@ -161,7 +182,10 @@
                                         </div>
                                         <div class="caption">
                                             <h4>Praesent commodo</h4>
-                                            <p>Nullam Condimentum Nibh Etiam Sem</p>
+                                            <p align="left">
+                                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                                            </p>
                                             <a class="btn btn-mini" href="#">» Read More</a>
                                         </div>
                                     </div>
@@ -237,9 +261,9 @@
                                 <div class="header">
                                     <strong class="primary-font">Jack Sparrow</strong> 
                                 </div>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
+                                <p align="left">
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
                                 </p>
                                 <small class="text-muted">
                                     <span class="glyphicon glyphicon-time"></span>12/12/2013
@@ -252,9 +276,9 @@
                                 <div class="header">
                                     <strong class="primary-font">Bhaumik Patel</strong> 
                                 </div>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
+                                <p align="left">
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
                                 </p>
                                 <small class="text-muted">
                                     <span class="glyphicon glyphicon-time"></span>12/12/2013
@@ -266,9 +290,9 @@
                                 <div class="header">
                                     <strong class="primary-font">Jack Sparrow</strong> 
                                 </div>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
+                                <p align="left">
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
                                 </p>
                                 <small class="text-muted">
                                     <span class="glyphicon glyphicon-time"></span>12/12/2013
@@ -281,9 +305,9 @@
                                 <div class="header">
                                     <strong class="primary-font">Bhaumik Patel</strong> 
                                 </div>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
+                                <p align="left">
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
                                 </p>
                                 <small class="text-muted">
                                     <span class="glyphicon glyphicon-time"></span>12/12/2013
@@ -295,9 +319,9 @@
                                 <div class="header">
                                     <strong class="primary-font">Bhaumik Patel</strong> 
                                 </div>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                                    dolor, quis ullamcorper ligula sodales.
+                                <p align="left">
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
                                 </p>
                                 <small class="text-muted">
                                     <span class="glyphicon glyphicon-time"></span>12/12/2013

@@ -13,7 +13,7 @@
 
 
 <div class="container text-center white_shadow">
-    <h1 class="page_title ">Our Sponsors</h1>
+    <h1>Our Sponsors</h1>
 
     <div class="row">
         <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">

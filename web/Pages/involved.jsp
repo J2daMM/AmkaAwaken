@@ -12,21 +12,15 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 
 <div class="container text-center white_shadow">
-    <h1 class="page_title ">Get Involved</h1>
+    <h1>Get Involved</h1>
 
     <div class="row">
-        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-            <hr>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-12 col-sm-12 " >
-            <h2>'There are many ways to get involved..<span class="text-muted"> Here are the Various Approaches..</span></h2>
-        </div>
-
         <div class="col-md-12 col-sm-12">
             <hr>
+        </div>
+        
+        <div class="col-md-12 col-sm-12 " >
+            <h2>'There are many ways to get involved..<span class="text-muted"> Here are the Various Approaches..</span></h2>
         </div>
 
         <div class="row">
@@ -43,7 +37,7 @@
                                 <p>After making a project(s) choice, donations can be made once or on a given number of frequencies. Please follow the link below to chose the preferred donation method. Thanks</p>
                                 <hr>
                                 <div class="profile-userbuttons">
-                                    <a href="donate.htm" class="btn btn-primary btn-sm" role="button">Donate</a>
+                                    <a href="donate.htm" class="btn btn-primary btn-sm" role="button">Donate Money/Resources</a>
                                 </div>
                             </div>
                         </div>
