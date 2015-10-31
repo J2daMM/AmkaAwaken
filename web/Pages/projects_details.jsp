@@ -102,20 +102,6 @@
                                         </a>
                                     </div>
                                 </div>
-                                <!--                                <ul class="nav nav-tabs">
-                                                                    <li class="active">
-                                                                        <a href="#tab_below_1" data-toggle="tab">
-                                                                            Project Background </a>
-                                                                    </li>
-                                                                    <li class="">
-                                                                        <a href="#tab_below_2" data-toggle="tab">
-                                                                            Project Goals</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="#tab_below_3" data-toggle="tab">
-                                                                            Project Details </a>
-                                                                    </li>
-                                                                </ul>-->
                             </div>
                         </div>
                     </div>
@@ -123,7 +109,7 @@
                 <hr>
                 <div class="row coralbg white">
                     <div class="header">
-                        <strong class="primary-font">How it was established</strong> 
+                        <strong class="primary-font">Sponsor's Info</strong> 
                     </div>
                     <div class="col-md-12 no-pad">
                         <p>
@@ -149,7 +135,7 @@
                 <hr>
                 <div class="row coralbg white">
                     <div class="header">
-                         <h3>Project's Success Stories</h3> 
+                        <h3>Project's Success Stories</h3> 
                     </div>
                     <div class="col-md-12 no-pad">
                         <div class="col-md-4 col-sm-4">
@@ -291,98 +277,106 @@
                 <hr>
                 <h3>Events</h3>
 
-                <div class="panel-body">
-                    <div class="chat-body clearfix">
-                        <div class="header">
-                            <strong class="primary-font">Jack Sparrow</strong> 
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                            dolor, quis ullamcorper ligula sodales.
-                        </p>
-                        <small class="text-muted">
-                            <span class="glyphicon glyphicon-time"></span>12 mins ago
-                            <span class="glyphicon glyphicon-asterisk"></span>
-                            <a href="#">Read More</a>
-                        </small>
-                    </div>
-                    <hr>
-                    <div class="chat-body clearfix">
-                        <div class="header">
-                            <strong class="primary-font">Bhaumik Patel</strong> 
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                            dolor, quis ullamcorper ligula sodales.
-                        </p>
-                        <small class="text-muted">
-                            <span class="glyphicon glyphicon-time"></span>12 mins ago
-                            <span class="glyphicon glyphicon-asterisk"></span>
-                            <a href="#">Read More</a></small>
-                    </div>
-                    <hr>
-                    <div class="chat-body clearfix">
-                        <div class="header">
-                            <strong class="primary-font">Jack Sparrow</strong> 
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                            dolor, quis ullamcorper ligula sodales.
-                        </p>
-                        <small class="text-muted">
-                            <span class="glyphicon glyphicon-time"></span>12 mins ago
-                            <span class="glyphicon glyphicon-asterisk"></span>
-                            <a href="#">Read More</a>
-                        </small>
-                    </div>
-                    <hr>
-                    <h3>News</h3>
-                    <div class="chat-body clearfix">
-                        <div class="header">
-                            <strong class="primary-font">Bhaumik Patel</strong> 
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                            dolor, quis ullamcorper ligula sodales.
-                        </p>
-                        <small class="text-muted">
-                            <span class="glyphicon glyphicon-time"></span>14 mins ago
-                            <span class="glyphicon glyphicon-asterisk"></span>
-                            <a href="#">Read More</a></small>
-                    </div>
-                    <hr>
-                    <div class="chat-body clearfix">
-                        <div class="header">
-                            <strong class="primary-font">Bhaumik Patel</strong> 
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                            dolor, quis ullamcorper ligula sodales.
-                        </p>
-                        <small class="text-muted">
-                            <span class="glyphicon glyphicon-time"></span>14 mins ago
-                            <span class="glyphicon glyphicon-asterisk"></span>
-                            <a href="#">Read More</a></small>
-                    </div>
-                    <hr>
-                    <div class="chat-body clearfix">
-                        <div class="header">
-                            <strong class="primary-font">Bhaumik Patel</strong> 
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                            dolor, quis ullamcorper ligula sodales.
-                        </p>
-                        <small class="text-muted">
-                            <span class="glyphicon glyphicon-time"></span>14 mins ago
-                            <span class="glyphicon glyphicon-asterisk"></span>
-                            <a href="#">Read More</a></small>
-                    </div>
-                    <hr>
+                <div class="modal-body">
+                    <div id="calendar"></div>
                 </div>
+                <div class="modal-footer"> 
+                    <ul class="event-list">
+                        <li>
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+
+                            </div>
+                            <!--                            </a>-->
+                        </li>
+                        <li>
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
+                        </li>
+                        <li>
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
+                        </li>
+                    </ul>
+                </div>
+                <h3>News</h3>
+                <div class="chat-body clearfix">
+                    <div class="header">
+                        <strong class="primary-font">Bhaumik Patel</strong> 
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
+                        dolor, quis ullamcorper ligula sodales.
+                    </p>
+                    <small class="text-muted">
+                        <span class="glyphicon glyphicon-time"></span>14 mins ago
+                        <span class="glyphicon glyphicon-asterisk"></span>
+                        <a href="#">Read More</a></small>
+                </div>
+                <hr>
+                <div class="chat-body clearfix">
+                    <div class="header">
+                        <strong class="primary-font">Bhaumik Patel</strong> 
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
+                        dolor, quis ullamcorper ligula sodales.
+                    </p>
+                    <small class="text-muted">
+                        <span class="glyphicon glyphicon-time"></span>14 mins ago
+                        <span class="glyphicon glyphicon-asterisk"></span>
+                        <a href="#">Read More</a></small>
+                </div>
+                <hr>
+                <div class="chat-body clearfix">
+                    <div class="header">
+                        <strong class="primary-font">Bhaumik Patel</strong> 
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
+                        dolor, quis ullamcorper ligula sodales.
+                    </p>
+                    <small class="text-muted">
+                        <span class="glyphicon glyphicon-time"></span>14 mins ago
+                        <span class="glyphicon glyphicon-asterisk"></span>
+                        <a href="#">Read More</a></small>
+                </div>
+                <hr>
             </div>
         </div>
     </div>
+</div>
 </div>
 <script>
     $(document).ready(function () {

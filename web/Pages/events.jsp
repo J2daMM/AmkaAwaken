@@ -30,60 +30,64 @@
                 <div class="modal-footer"> 
                     <ul class="event-list">
                         <li>
-<!--                            <a href="#" >-->
-                                <div class="time">
-                                    <div class="text-area">1045AM</div>
-                                    <div class="bottom-line"></div>                        
-                                    <div class="text-area">1245PM</div>
-                                </div>
-                                <div class="info">
-                                    <div class="event-title">Freedom Hunger Walk</div>
-                                    <div class="event-address">123 Main St Dallas,Tx </div>
-                                    <div class="event-project">Amka Twende Project</div>
-                                </div>
-<!--                            </a>-->
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
                         </li>
                         <li>
-<!--                            <a href="#" >-->
-                                <div class="time">
-                                    <div class="text-area">1045AM</div>
-                                    <div class="bottom-line"></div>                        
-                                    <div class="text-area">1245PM</div>
-                                </div>
-                                <div class="info">
-                                    <div class="event-title">Freedom Hunger Walk</div>
-                                    <div class="event-address">123 Main St Dallas,Tx </div>
-                                    <div class="event-project">Amka Twende Project</div>
-                                </div>
-<!--                            </a>-->
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
                         </li>
                         <li>
-<!--                            <a href="#" >-->
-                                <div class="time">
-                                    <div class="text-area">1045AM</div>
-                                    <div class="bottom-line"></div>                        
-                                    <div class="text-area">1245PM</div>
-                                </div>
-                                <div class="info">
-                                    <div class="event-title">Freedom Hunger Walk</div>
-                                    <div class="event-address">123 Main St Dallas,Tx </div>
-                                    <div class="event-project">Amka Twende Project</div>
-                                </div>
-<!--                            </a>-->
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
                         </li>
                         <li>
-<!--                            <a href="#" >-->
-                                <div class="time">
-                                    <div class="text-area">1045AM</div>
-                                    <div class="bottom-line"></div>                        
-                                    <div class="text-area">1245PM</div>
-                                </div>
-                                <div class="info">
-                                    <div class="event-title">Freedom Hunger Walk</div>
-                                    <div class="event-address">123 Main St Dallas,Tx </div>
-                                    <div class="event-project">Amka Twende Project</div>
-                                </div>
-<!--                            </a>-->
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
                         </li>
                     </ul>
                 </div>

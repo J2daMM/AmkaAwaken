@@ -93,6 +93,11 @@
         <put-attribute name="content" value="/Pages/events_details.jsp" />
     </definition>
     
+    <definition name="com.amkaawaken.events_gallery" extends="mainLayout">
+        <put-attribute name="title" value="AmkaAwaken | Events Gallery" />
+        <put-attribute name="content" value="/Pages/events_gallery.jsp" />
+    </definition>
+    
     <definition name="com.amkaawaken.goals" extends="mainLayout">
         <put-attribute name="title" value="AmkaAwaken | Our Goals" />
         <put-attribute name="content" value="/Pages/our_goals.jsp" />

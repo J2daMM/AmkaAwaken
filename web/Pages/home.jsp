@@ -153,99 +153,102 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-3">
-                    <h2> Events</h2>
-                    <div class="modal-body">
-                        <div id="calendar"></div>
-                    </div>
-                    <div class="modal-footer"> 
-                        <ul class="event-list">
-                            <li>
-                                <!--                            <a href="#" >-->
-                                <div class="time">
-                                    <div class="text-area">1045AM</div>
-                                    <div class="bottom-line"></div>                        
-                                    <div class="text-area">1245PM</div>
-                                </div>
-                                <div class="info">
-                                    <div class="event-title">Freedom Hunger Walk</div>
-                                    <div class="event-address">123 Main St Dallas,Tx </div>
-                                    <div class="event-project">Amka Twende Project</div>
-                                </div>
-                                <!--                            </a>-->
-                            </li>
-                            <li>
-                                <!--                            <a href="#" >-->
-                                <div class="time">
-                                    <div class="text-area">1045AM</div>
-                                    <div class="bottom-line"></div>                        
-                                    <div class="text-area">1245PM</div>
-                                </div>
-                                <div class="info">
-                                    <div class="event-title">Freedom Hunger Walk</div>
-                                    <div class="event-address">123 Main St Dallas,Tx </div>
-                                    <div class="event-project">Amka Twende Project</div>
-                                </div>
-                                <!--                            </a>-->
-                            </li>
-                            <li>
-                                <!--                            <a href="#" >-->
-                                <div class="time">
-                                    <div class="text-area">1045AM</div>
-                                    <div class="bottom-line"></div>                        
-                                    <div class="text-area">1245PM</div>
-                                </div>
-                                <div class="info">
-                                    <div class="event-title">Freedom Hunger Walk</div>
-                                    <div class="event-address">123 Main St Dallas,Tx </div>
-                                    <div class="event-project">Amka Twende Project</div>
-                                </div>
-                                <!--                            </a>-->
-                            </li>
-                        </ul>
-                    </div>
-                    <!--                    <h3>News</h3>
-                                        <ul class="list-group">
-                                            <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/05/2014: </span> Hunger Walk</a></li>
-                                            <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/23/2014: </span> Education Walk</a></li>
-                                            <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/30/2014: </span> Maji Walk</a></li>
-                                        </ul>
-                                        
-                                        <hr class="featurette-divider "> 
-                    
-                                        <h3>Blogs</h3>
-                                        <ul class="list-group">
-                                            <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/05/2014: </span> Hunger Walk</a></li>
-                                            <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/23/2014: </span> Education Walk</a></li>
-                                            <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/30/2014: </span> Maji Walk</a></li>
-                                        </ul>                  
-                    
-                                        <hr class="featurette-divider ">
-                    
-                                        <h3>Events</h3>
-                                        <ul class="list-group">
-                                            <li class="list-group-item"> <a href="events.htm"><span class="label label-info">06/05/2014: </span> Hunger Walk</a></li>
-                                            <li class="list-group-item"> <a href="events.htm"><span class="label label-info">06/23/2014: </span> Education Walk</a></li>
-                                            <li class="list-group-item"> <a href="events.htm"><span class="label label-info">06/30/2014: </span> Maji Walk</a></li>
-                                        </ul> -->
+                <h2> Events</h2>
+                <div class="modal-body">
+                    <div id="calendar"></div>
+                </div>
+                <div class="modal-footer"> 
+                    <ul class="event-list">
+                        <li>
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
+                        </li>
+                        <li>
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
+                        </li>
+                        <li>
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
+                        </li>
+                    </ul>
+                </div>
+                <!--                    <h3>News</h3>
+                                    <ul class="list-group">
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/05/2014: </span> Hunger Walk</a></li>
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/23/2014: </span> Education Walk</a></li>
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/30/2014: </span> Maji Walk</a></li>
+                                    </ul>
+                                    
+                                    <hr class="featurette-divider "> 
+                
+                                    <h3>Blogs</h3>
+                                    <ul class="list-group">
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/05/2014: </span> Hunger Walk</a></li>
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/23/2014: </span> Education Walk</a></li>
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/30/2014: </span> Maji Walk</a></li>
+                                    </ul>                  
+                
+                                    <hr class="featurette-divider ">
+                
+                                    <h3>Events</h3>
+                                    <ul class="list-group">
+                                        <li class="list-group-item"> <a href="events.htm"><span class="label label-info">06/05/2014: </span> Hunger Walk</a></li>
+                                        <li class="list-group-item"> <a href="events.htm"><span class="label label-info">06/23/2014: </span> Education Walk</a></li>
+                                        <li class="list-group-item"> <a href="events.htm"><span class="label label-info">06/30/2014: </span> Maji Walk</a></li>
+                                    </ul> -->
 
-<!--                    <hr class="featurette-divider "> 
-
-                    <div class="newsletter">
-                        <a class="details right"   href="#">
-                            What's this?
-                            <span class="tooltip">
-                                Signing up for events notification.
-                            </span>
-                        </a>
-                        <h3 class="left">Stay Informed</h3>
-                        <div class="force_break"></div>
-                        <form action="#" method="post"> 
-                            <input type="text" name="email" placeholder="Email address" value="" /> <br/><br/>
-                            <input class="btn btn-default btn-xs" name="commit" type="submit" value="Sign Up" style="cursor:pointer;" />
-                        </form>
-                    </div>
-
-                    <hr class="featurette-divider ">-->
+                <!--                    <hr class="featurette-divider "> 
+                
+                                    <div class="newsletter">
+                                        <a class="details right"   href="#">
+                                            What's this?
+                                            <span class="tooltip">
+                                                Signing up for events notification.
+                                            </span>
+                                        </a>
+                                        <h3 class="left">Stay Informed</h3>
+                                        <div class="force_break"></div>
+                                        <form action="#" method="post"> 
+                                            <input type="text" name="email" placeholder="Email address" value="" /> <br/><br/>
+                                            <input class="btn btn-default btn-xs" name="commit" type="submit" value="Sign Up" style="cursor:pointer;" />
+                                        </form>
+                                    </div>
+                
+                                    <hr class="featurette-divider ">-->
             </div>
         </div>
     </div>

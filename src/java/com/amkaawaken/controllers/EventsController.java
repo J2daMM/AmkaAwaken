@@ -28,4 +28,10 @@ public class EventsController {
     {
         return new ModelAndView("com.amkaawaken.events_details");
     }
+    
+    @RequestMapping(value = "/events_gallery.htm", method = RequestMethod.GET)
+    public ModelAndView events_gallery()
+    {
+        return new ModelAndView("com.amkaawaken.events_gallery");
+    }
 }
