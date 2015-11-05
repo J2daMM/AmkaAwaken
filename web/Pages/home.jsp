@@ -154,6 +154,7 @@
             </div>
             <div class="col-md-3 col-sm-3">
                 <h2> Events</h2>
+                    <hr>
                 <div class="modal-body">
                     <div id="calendar"></div>
                 </div>

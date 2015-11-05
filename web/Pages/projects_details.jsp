@@ -112,9 +112,7 @@
                         <strong class="primary-font">Sponsor's Info</strong> 
                     </div>
                     <div class="col-md-12 no-pad">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                            dolor, quis ullamcorper ligula sodales.
+                        <p align="left">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
                             dolor, quis ullamcorper ligula sodales.
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
@@ -130,6 +128,10 @@
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
                             dolor, quis ullamcorper ligula sodales.
                         </p>
+                        <small class="text-muted">
+                            <span class="glyphicon glyphicon-asterisk"></span>
+                            <a href="#">More Sponsor's Info</a>
+                        </small>
                     </div>
                 </div>
                 <hr>
@@ -335,12 +337,11 @@
                     <div class="header">
                         <strong class="primary-font">Bhaumik Patel</strong> 
                     </div>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                        dolor, quis ullamcorper ligula sodales.
+                    <p align="left">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                     </p>
                     <small class="text-muted">
-                        <span class="glyphicon glyphicon-time"></span>14 mins ago
+                        <span class="glyphicon glyphicon-time"></span>12/12/2013
                         <span class="glyphicon glyphicon-asterisk"></span>
                         <a href="#">Read More</a></small>
                 </div>
@@ -349,12 +350,11 @@
                     <div class="header">
                         <strong class="primary-font">Bhaumik Patel</strong> 
                     </div>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                        dolor, quis ullamcorper ligula sodales.
+                    <p align="left">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                     </p>
                     <small class="text-muted">
-                        <span class="glyphicon glyphicon-time"></span>14 mins ago
+                        <span class="glyphicon glyphicon-time"></span>12/12/2013
                         <span class="glyphicon glyphicon-asterisk"></span>
                         <a href="#">Read More</a></small>
                 </div>
@@ -363,12 +363,11 @@
                     <div class="header">
                         <strong class="primary-font">Bhaumik Patel</strong> 
                     </div>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-                        dolor, quis ullamcorper ligula sodales.
+                    <p align="left">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                     </p>
                     <small class="text-muted">
-                        <span class="glyphicon glyphicon-time"></span>14 mins ago
+                        <span class="glyphicon glyphicon-time"></span>12/12/2013
                         <span class="glyphicon glyphicon-asterisk"></span>
                         <a href="#">Read More</a></small>
                 </div>
@@ -376,7 +375,6 @@
             </div>
         </div>
     </div>
-</div>
 </div>
 <script>
     $(document).ready(function () {
