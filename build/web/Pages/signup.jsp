@@ -12,7 +12,7 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 
 <div class="container text-center white_shadow">
-    <h1 class="page_title ">Sponsor Sign Up</h1>
+    <h1>Sponsor Sign Up</h1>
 
     <div class="col-md-12 col-sm-12 ">
         <hr>

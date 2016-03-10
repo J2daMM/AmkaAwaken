@@ -20,7 +20,7 @@
                 <div class="container">
                     <div class="carousel-caption">
                         <h2>Amka-Awaken Youth Organization - <span class="text-muted">empower the youth to take ownership and responsibility with goal oriented projects..</span></h2>
-<!--                        <p>'There can be no revelation of a society's soul than the way in which it treats it's children.' - Nelson Mandela</p>-->
+                        <!--                        <p>'There can be no revelation of a society's soul than the way in which it treats it's children.' - Nelson Mandela</p>-->
                         <a href="involved.htm" class="btn btn-primary" title="Enlace"><h4>Get Involved</h4></a>
                     </div>
 
@@ -31,7 +31,7 @@
                 <div class="container">
                     <div class="carousel-caption">
                         <h2>Amka-Awaken Youth Organization - <span class="text-muted">empower the community by working with its women's groups and projects..</span></h2>
-<!--                        <p>'Children are great imitators. So give them something great to imitate.' - Anonymous</p>-->
+                        <!--                        <p>'Children are great imitators. So give them something great to imitate.' - Anonymous</p>-->
                         <a href="involved.htm" class="btn btn-primary" title="Enlace"><h4>Get Involved</h4></a>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
                 <div class="container">
                     <div class="carousel-caption">
                         <h2>Amka-Awaken Youth Organization - <span class="text-muted">work with the communities water projects to bring about clean water resources..</span></h2>
-<!--                        <p>'Give a boy a fish and you feed him for a day. Teach a boy to fish and you feed him for a lifetime.' - Chinese Proverb</p>-->
+                        <!--                        <p>'Give a boy a fish and you feed him for a day. Teach a boy to fish and you feed him for a lifetime.' - Chinese Proverb</p>-->
                         <a href="involved.htm" class="btn btn-primary" title="Enlace"><h4>Get Involved</h4></a>
                     </div>
                 </div>
@@ -152,52 +152,105 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-3 contentRight">
-                <div class="col-md-12 col-sm-12">
-                    <h3>News</h3>
-                    <ul class="list-group">
-                        <li class="list-group-item"> <a href="news_blogs.htm">06/05/2014: Hunger Walk</a></li>
-                        <li class="list-group-item"> <a href="news_blogs.htm">06/23/2014: Education Walk</a></li>
-                        <li class="list-group-item"> <a href="news_blogs.htm">06/30/2014: Maji Walk</a></li>
-                    </ul>
-                    
-                    <hr class="featurette-divider "> 
-
-                    <h3>Blogs</h3>
-                    <ul class="list-group">
-                        <li class="list-group-item"> <a href="news_blogs.htm">06/05/2014: Hunger Walk</a></li>
-                        <li class="list-group-item"> <a href="news_blogs.htm">06/23/2014: Education Walk</a></li>
-                        <li class="list-group-item"> <a href="news_blogs.htm">06/30/2014: Maji Walk</a></li>
-                    </ul>                  
-
-                    <hr class="featurette-divider ">
-
-                    <h3>Events</h3>
-                    <ul class="list-group">
-                        <li class="list-group-item"> <a href="events.htm">06/05/2014: Hunger Walk</a></li>
-                        <li class="list-group-item"> <a href="events.htm">06/23/2014: Education Walk</a></li>
-                        <li class="list-group-item"> <a href="events.htm">06/30/2014: Maji Walk</a></li>
-                    </ul> 
-
-                    <hr class="featurette-divider "> 
-
-                    <div class="newsletter">
-                        <a class="details right"   href="#">
-                            What's this?
-                            <span class="tooltip">
-                                Signing up for events notification.
-                            </span>
-                        </a>
-                        <h3 class="left">Stay Informed</h3>
-                        <div class="force_break"></div>
-                        <form action="#" method="post"> 
-                            <input type="text" name="email" placeholder="Email address" value="" /> <br/><br/>
-                            <input class="btn btn-default btn-xs" name="commit" type="submit" value="Sign Up" style="cursor:pointer;" />
-                        </form>
-                    </div>
-
-                    <hr class="featurette-divider ">
+            <div class="col-md-3 col-sm-3 contentRight drop_shadow">
+                <div class="modal-header eventlist-header">
+                    <h2 id="myModalLabel">Events</h2>
                 </div>
+                <div class="modal-body">
+                    <div id="calendar"></div>
+                </div>
+                <div class="modal-footer"> 
+                    <ul class="event-list">
+                        <li>
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
+                        </li>
+                        <li>
+                            <!--                            <a href="#" >-->
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                            <!--                            </a>-->
+                        </li>
+<!--                        <li>
+                                                        <a href="#" >
+                            <div class="time">
+                                <div class="text-area">1045AM</div>
+                                <div class="bottom-line"></div>                        
+                                <div class="text-area">1245PM</div>
+                                <div ><a href="#" class="btn btn-default btn-xs" role="button">Details</a> </div>
+                            </div>
+                            <div class="info">
+                                <div class="event-title">Freedom Hunger Walk</div>
+                                <div class="event-address">123 Main St Dallas,Tx </div>
+                                <div class="event-project">Amka Twende Project</div>
+                            </div>
+                                                        </a>
+                        </li>-->
+                    </ul>
+                </div>
+                <!--                    <h3>News</h3>
+                                    <ul class="list-group">
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/05/2014: </span> Hunger Walk</a></li>
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/23/2014: </span> Education Walk</a></li>
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/30/2014: </span> Maji Walk</a></li>
+                                    </ul>
+                                    
+                                    <hr class="featurette-divider "> 
+                
+                                    <h3>Blogs</h3>
+                                    <ul class="list-group">
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/05/2014: </span> Hunger Walk</a></li>
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/23/2014: </span> Education Walk</a></li>
+                                        <li class="list-group-item"> <a href="news_blogs.htm"><span class="label label-info">06/30/2014: </span> Maji Walk</a></li>
+                                    </ul>                  
+                
+                                    <hr class="featurette-divider ">
+                
+                                    <h3>Events</h3>
+                                    <ul class="list-group">
+                                        <li class="list-group-item"> <a href="events.htm"><span class="label label-info">06/05/2014: </span> Hunger Walk</a></li>
+                                        <li class="list-group-item"> <a href="events.htm"><span class="label label-info">06/23/2014: </span> Education Walk</a></li>
+                                        <li class="list-group-item"> <a href="events.htm"><span class="label label-info">06/30/2014: </span> Maji Walk</a></li>
+                                    </ul> -->
+
+                <!--                    <hr class="featurette-divider "> 
+                
+                                    <div class="newsletter">
+                                        <a class="details right"   href="#">
+                                            What's this?
+                                            <span class="tooltip">
+                                                Signing up for events notification.
+                                            </span>
+                                        </a>
+                                        <h3 class="left">Stay Informed</h3>
+                                        <div class="force_break"></div>
+                                        <form action="#" method="post"> 
+                                            <input type="text" name="email" placeholder="Email address" value="" /> <br/><br/>
+                                            <input class="btn btn-default btn-xs" name="commit" type="submit" value="Sign Up" style="cursor:pointer;" />
+                                        </form>
+                                    </div>
+                
+                                    <hr class="featurette-divider ">-->
             </div>
         </div>
     </div>

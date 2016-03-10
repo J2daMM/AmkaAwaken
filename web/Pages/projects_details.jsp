@@ -277,7 +277,7 @@
         <div class="col-md-3 col-sm-3">
             <div class="col-md-12 col-sm-12">
                 <hr>
-                <h3>Events</h3>
+                <h2>Events</h2>
 
                 <div class="modal-body">
                     <div id="calendar"></div>

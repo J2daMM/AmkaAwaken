@@ -27,7 +27,7 @@
             <!--                    <div class="timeline-badge warning"><i class="glyphicon glyphicon-credit-card"></i></div>-->
             <ul class="timeline">
                 <li>
-                    <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
+<!--                    <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>-->
                     <div class="timeline-panel">
                         <div class="timeline-heading">
                             <h4 class="timeline-title">Choose a Project and Make a Donation:</h4>
@@ -42,7 +42,7 @@
                     </div>
                 </li>
                 <li class="timeline-inverted">
-                    <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
+<!--                    <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>-->
                     <div class="timeline-panel">
                         <div class="timeline-heading">
                             <h4 class="timeline-title">Volunteer yourself for:</h4>
@@ -57,7 +57,7 @@
                     </div>
                 </li>
                 <li>
-                    <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
+<!--                    <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>-->
                     <div class="timeline-panel">
                         <div class="timeline-heading">
                             <h4 class="timeline-title">Organize a project, an event, a campaign or Resources Drive:</h4>
@@ -72,7 +72,7 @@
                     </div>
                 </li>
                 <li class="timeline-inverted">
-                    <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
+<!--                    <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>-->
                     <div class="timeline-panel">
                         <div class="timeline-heading">
                             <h4 class="timeline-title">Become a Project(s) Sponsor:</h4>

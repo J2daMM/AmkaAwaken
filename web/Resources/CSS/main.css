@@ -1832,6 +1832,10 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
     margin: 0;
 }
 
+.eventlist-header{
+    padding:2px 10px 2px 20px;
+}
+
 .eventlist-row {
     /* display: block; */
     /* position: relative; */

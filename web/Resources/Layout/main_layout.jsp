@@ -44,8 +44,18 @@
           <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-
-
+    </head>
+    <body>
+        <div id="header">
+            <tiles:insertAttribute name="header" />
+        </div>
+        <div id="content">
+            <tiles:insertAttribute name="content" />
+        </div>
+        <div id="footer">
+            <tiles:insertAttribute name="footer" />
+        </div>
+        
         <script>
             $(document).ready(function () {
                 //initialize the calendar...
@@ -62,19 +72,6 @@
                 })
             });
         </script>
-
-    </head>
-    <body>
-        <div id="header">
-            <tiles:insertAttribute name="header" />
-        </div>
-        <div id="content">
-            <tiles:insertAttribute name="content" />
-        </div>
-        <div id="footer">
-            <tiles:insertAttribute name="footer" />
-        </div>
-
 
     </body>
 </html>

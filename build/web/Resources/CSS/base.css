@@ -8,6 +8,7 @@ and open the template in the editor.
     Author     : XUG590
 */
 
+@import "Fullcalendar/fullcalendar.min.css";
 @import "Bootstrap/bootstrap.css";
 @import "Bootstrap/bootstrap-theme.css";
 @import "forms.css";

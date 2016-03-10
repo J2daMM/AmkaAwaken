@@ -152,9 +152,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-3">
-                <h2> Events</h2>
-                    <hr>
+            <div class="col-md-3 col-sm-3 contentRight drop_shadow">
+                <div class="modal-header eventlist-header">
+                    <h2 id="myModalLabel">Events</h2>
+                </div>
                 <div class="modal-body">
                     <div id="calendar"></div>
                 </div>
@@ -190,8 +191,8 @@
                             </div>
                             <!--                            </a>-->
                         </li>
-                        <li>
-                            <!--                            <a href="#" >-->
+<!--                        <li>
+                                                        <a href="#" >
                             <div class="time">
                                 <div class="text-area">1045AM</div>
                                 <div class="bottom-line"></div>                        
@@ -203,8 +204,8 @@
                                 <div class="event-address">123 Main St Dallas,Tx </div>
                                 <div class="event-project">Amka Twende Project</div>
                             </div>
-                            <!--                            </a>-->
-                        </li>
+                                                        </a>
+                        </li>-->
                     </ul>
                 </div>
                 <!--                    <h3>News</h3>

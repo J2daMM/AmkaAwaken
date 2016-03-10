@@ -82,7 +82,7 @@ a:hover{
     background-color: #fff;
     -webkit-box-shadow:0 1px 6px rgba(255,255,255,.7),0 1px 6px rgba(0,0,0,.2);
     box-shadow:0 1px 6px rgba(255,255,255,.7),0 1px 5px rgba(0,0,0,.2);
-    padding: 20px 0 20px 0 ;
+    padding: 20px 0 25px 0 ;
     opacity:.9;
     margin-top: 10px;
     min-height: 400px;
@@ -117,10 +117,10 @@ a:hover{
 
 .newsletter 
 {
-    background: #000000;
+    background: rgb(245, 245, 245);
     margin: 0;
     padding: 0px 8px;
-    border: 1px solid #323232;
+    //border: 1px solid #323232;
 }
 
 .newsletter a.details {
@@ -216,10 +216,10 @@ a:hover{
 
 
 /* CUSTOMIZE LIST GROUPS */
-.list-group-item
+/*.list-group-item
 {
 
-}
+}*/
 /*.list-group-item:hover,
 .list-group-item:focus {
    content: "\e062";
@@ -1171,7 +1171,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
     border-radius: 8px;
     text-align: center;
     padding: 0;
-    background-color: #284c79;
+    /* background-color: #284c79; */
     color: rgb(136, 172, 217);
 }
 
@@ -1828,90 +1828,137 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
 
 /* EVENT_DETAILS
 -------------------------------------------------- */
-.dynamicTile .col-sm-2.col-xs-4{
-    padding:5px;
+.eventsByDate{
+    margin: 0;
 }
 
-.dynamicTile .col-sm-4.col-xs-8{
-    padding:5px;
+.eventlist-header{
+    padding:2px 10px 2px 20px;
 }
 
-#tile1{
-    background: rgb(0,172,238);
+.eventlist-row {
+    /* display: block; */
+    /* position: relative; */
+    /* top: 0; */
+    /* left: 0; */
+    margin-bottom: 2px;
+    /* padding: 1px; */
+    /*    color: #333 !important;*/
+    /* border: 1px solid #e3e3e3; */
+    text-decoration: none !important;
 }
 
-#tile2{
-    background: rgb(243,243,243);
+.eventlist-timetag {
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0;
+    padding: 2px;
+    color: inherit;
+    font-size: 0;
+    line-height: 0;
+    letter-spacing: 0;
+    background-color: #f5f5f5;
+    border-radius: 4px;
 }
 
-#tile3{
-    background: rgb(71,193,228);
+.eventlist-timetag-starttime {
+    margin: 1px;
+    line-height: 1em;
+    font-size: 10px;
+    text-transform: uppercase;
+    white-space: nowrap;
 }
 
-#tile4{
-    background-image: url('http://handsontek.net/demoimages/tiles/facebook.png');
-    background-size: cover;
+.eventlist-timetag-median {
+    font-size: 10px;
+    border-top: 1px solid #ddd;
+    margin: 7px 0 7px 0
 }
 
-#tile5{
-    background: rgb(175,26,63);
+.eventlist-timetag-endtime {
+    margin: 1px;
+    line-height: 1em;
+    font-size: 10px;
+    text-transform: uppercase;
+    white-space: nowrap;
 }
 
-#tile6{
-    background: rgb(62,157,215);
+.eventlist-column-info {
+    /* float: right; */
+    /* width: 65%; */
+    padding: 0 0 0 34px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
-#tile7{
-    background: white;
+.eventlist-title {
+    margin: 2px;
+    padding: 0 !important;
+    font-size: 12px !important;
+    line-height: 1.2em !important;
 }
 
-#tile8{
-    background: rgb(209,70,37);
+.eventlist-location {
+    margin: 1px;
+    line-height: 1em;
+    font-size: 10px;
+    text-transform: lowercase;
+    white-space: nowrap;
 }
 
-#tile9{
-    background: rgb(0,142,0);
+.eventlist-project {
+    margin: 1px;
+    line-height: 1em;
+    font-size: 10px;
+    text-transform: uppercase;
+    white-space: nowrap;
 }
 
-#tile10{
-    background: rgb(0,93,233);
-}
-
-.tilecaption{
+.rsvp {
+    padding: 0;
     position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%); 
-    margin:0!important;
-    text-align: center;
-    color:white;
-    font-family: Segoe UI;
-    font-weight: lighter;
 }
+
+/*.eventlist-datetag-time, .eventlist-datetag-enddate {
+    border-top: 1px solid #ddd;
+    margin: 6px 0 0 0;
+    padding-top: 6px;
+    font-size: 11px;
+}
+
+.eventlist-datetag-startdate--month, .eventlist-datetag-startdate--day, .eventlist-datetag-time, .eventlist-datetag-enddate {
+    margin: 3px 0;
+    line-height: 1em;
+    text-transform: uppercase;
+    white-space: nowrap;
+}*/
 
 
 .event-list {
     list-style: none;
+    /* list-style-type: none; */
     font-family: 'Lato', sans-serif;
     margin: 0px;
     padding: 0px;
 }
 .event-list > li {
-    background-color: rgb(255, 255, 255);
-    box-shadow: 0px 0px 5px rgb(51, 51, 51);
-    box-shadow: 0px 0px 5px rgba(51, 51, 51, 0.7);
-    padding: 0px;
-    margin: 0px 0px 20px;
+    /* background-color: rgb(255, 255, 255); */
+    /* box-shadow: 0px 0px 5px rgb(51, 51, 51); */
+    /* box-shadow: 0px 0px 5px rgba(51, 51, 51, 0.7); */
+    /* padding: 0px; */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 0px 0px 5px;
+    text-decoration: none !important;
 }
-.event-list > li > time {
-    display: inline-block;
-    width: 100%;
+.time {
+    display: table-cell;
     color: rgb(255, 255, 255);
-    background-color: rgb(197, 44, 102);
-    padding: 5px;
+    background: #FF971E;
+    padding: 5px; 
     text-align: center;
-    text-transform: uppercase;
 }
 .event-list > li:nth-child(even) > time {
     background-color: rgb(165, 82, 167);
@@ -1919,30 +1966,49 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
 .event-list > li > time > span {
     display: none;
 }
-.event-list > li > time > .day {
+.event-list > li > .time .day {
     display: block;
-    font-size: 20pt;
-    font-weight: 100;
+    font-size: 10pt;
+    font-weight: 400;
     line-height: 1;
 }
 .event-list > li time > .month {
     display: block;
-    font-size: 20pt;
-    font-weight: 900;
+    font-size: 24pt;
+    font-weight: 100;
     line-height: 1;
 }
 .event-list > li > img {
     width: 100%;
 }
-.event-list > li > .info {
-    padding-top: 5px;
+.info {
+    /* padding-top: 5px; */
+    /* background-color: rgb(165, 82, 167); */
+    display: table-cell;
     text-align: center;
 }
-.event-list > li > .info > .title {
+
+.event-list > li > .header-box { 
+    width: 100%;
+    height: 30px;   
+    background:rgb(218,103,10);   
+    top:0;
+    left:0; 
+}
+
+.event-list > li > .header-box > .header {
+    font-size: 17pt;
+    font-weight: 700;
+    width: 100%;
+    text-align: center;
+}
+
+.event-list > li > .title {
     font-size: 17pt;
     font-weight: 700;
     margin: 0px;
-}
+}    
+
 .event-list > li > .info > .desc {
     font-size: 13pt;
     font-weight: 300;
@@ -1955,7 +2021,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
     margin: 10px 0px 0px;
     padding: 0px;
     width: 100%;
-    text-align: center;
+    text-align: left;
 }
 .event-list > li > .social > ul {
     margin: 0px;
@@ -1968,6 +2034,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
     font-size: 11pt;
     font-weight: 300;
     padding: 3px 0px;
+    padding-left: 5px;
 }
 .event-list > li > .info > ul > li > a {
     display: block;
@@ -1986,39 +2053,63 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
     color: rgb(30, 30, 30);
     background-color: rgb(200, 200, 200);
 }
-.facebook a,
-.twitter a,
-.google-plus a {
+.event-list > li > .social > ul > li > a > span {
+    padding-left: 5px;
+    font-weight: 300;
+}
+.opcoes a {
     display: block;
     width: 100%;
-    color: rgb(75, 110, 168) !important;
+    color: black !important;
 }
-.twitter a {
-    color: rgb(79, 213, 248) !important;
-}
-.google-plus a {
-    color: rgb(221, 75, 57) !important;
-}
-.facebook:hover a {
-    color: rgb(255, 255, 255) !important;
-    background-color: rgb(75, 110, 168) !important;
-}
-.twitter:hover a {
-    color: rgb(255, 255, 255) !important;
-    background-color: rgb(79, 213, 248) !important;
-}
-.google-plus:hover a {
+
+.opcoes:hover a {
     color: rgb(255, 255, 255) !important;
     background-color: rgb(221, 75, 57) !important;
 }
 
+.event-title {
+    /* font-weight:bold; */
+    font-weight: 300;
+    padding-left: 5px;
+    background:rgba(0,0,0,0.05);
+    padding-top: 5px;
+    /* padding-bottom: 5px; */
+    /* border-top: 1px solid #dadada; */
+    /* text-align: left; */
+}
+
+.text-area {
+    font-size:1em;
+    text-align: left;
+}
+
+.event-project {
+    padding:5px;
+    font-size: .9em;
+} 
+
+.bottom-line {
+    border-bottom: 1px solid #dadada;
+} 
+
+.event-address{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: .8em;
+}
+
+.info-top {
+    /* height: 45%; */
+}
+
 @media (min-width: 768px) {
     .event-list > li {
-        position: relative;
-        display: block;
-        width: 100%;
-        height: 120px;
-        padding: 0px;
+        /* position: relative; */
+        /* display: block; */
+        /* width: 100%; */
+        /* height: 180px; */
+        /* padding: 0px; */
     }
     .event-list > li > time,
     .event-list > li > img  {
@@ -2029,22 +2120,24 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
         width: 120px;
         float: left;
     }
-    .event-list > li > .info {
+    .info {
         background-color: rgb(245, 245, 245);
         overflow: hidden;
     }
     .event-list > li > time,
     .event-list > li > img {
         width: 120px;
-        height: 120px;
+        /* height: 180px; */
         padding: 0px;
         margin: 0px;
     }
-    .event-list > li > .info {
-        position: relative;
-        height: 120px;
+    .info {
+        /* position: relative; */
+        /* height: 180px; */
+        width: 100%;
+        display: table-cell;
         text-align: left;
-        padding-right: 40px;
+        /* padding-right: 80px; */
     }	
     .event-list > li > .info > .title, 
     .event-list > li > .info > .desc {
@@ -2060,10 +2153,12 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
         top: 0px;
         right: 0px;
         display: block;
-        width: 40px;
+        width: 80px;
+        background-color: rgb(255, 255, 255)            
     }
     .event-list > li > .social > ul {
         border-left: 1px solid rgb(230, 230, 230);
+        height: 180px;
     }
     .event-list > li > .social > ul > li {			
         display: block;
@@ -2071,7 +2166,8 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
     }
     .event-list > li > .social > ul > li > a {
         display: block;
-        width: 40px;
+        width: 80px;
         padding: 10px 0px 9px;
+        text-decoration: none;            
     }
 }
